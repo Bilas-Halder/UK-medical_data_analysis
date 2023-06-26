@@ -1,0 +1,47 @@
+###
+On the hospital data, we want to run an analysis similar to the price sensitivity analysis we did for Spring.
+
+#
+So we need the file "AAE Monthly Provider Data"
+
+#
+Then from that column for each provider we just need columns
+AandE_Attends_Type1
+Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1
+Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1
+
+#
+Now, I know that for
+Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1
+
+we have NULL values, but we can calculate this by:
+"AandE_Attends_Type1" - "Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1"
+
+##
+Then what I need is the following:
+
+#
+For each row calculate "% Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1"
+
+This we calculate by doing this:
+Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1 / AandE_Attends_Type1
+
+#
+Then do the following:
+For each Provider_Code I want the average monthly value for "AandE_Attends_Type1"
+
+#
+This average value we will make our reference point 0
+
+#
+Then for make all other values, round to 1% point positive and negative
+
+***
+If you look at this file and look at "My Calculation" sheet, then you can get an idea of what I am discussing
+
+So obviously we need to do for all "Provider_Code".
+
+
+###
+Then If you can do an average of all the average;
+So, for each % point on "% Difference" in my sheet, do the average "% Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1" for all the "Provider_Code"

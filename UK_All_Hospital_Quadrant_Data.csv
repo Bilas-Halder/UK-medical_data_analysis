@@ -1,0 +1,1467 @@
+Provider Group Level based on AandE Type 1,Provider Code,Metrices Type,Metric,Label,SD away from Hospital Average,SD away from National Average
+Bet Bottom & Top,R0A,Monthly,AandE_Attends_Type1,M1,-0.19,3.09
+Bet Bottom & Top,R0A,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.15,2.07
+Bet Bottom & Top,R0A,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.5,3.69
+Bet Bottom & Top,R0A,Monthly,Emerg_Adms_Via_Type1,M4,-1.64,1.42
+Bet Bottom & Top,R0A,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.76,-0.57
+Bet Bottom & Top,R0A,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.87,3.54
+Bet Bottom & Top,R0A,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.58,-0.66
+Bet Bottom & Top,RAJ,Monthly,AandE_Attends_Type1,M1,0.86,3.89
+Bet Bottom & Top,RAJ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.3,4.31
+Bet Bottom & Top,RAJ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.81,2.77
+Bet Bottom & Top,RAJ,Monthly,Emerg_Adms_Via_Type1,M4,-0.02,3.23
+Bet Bottom & Top,RAJ,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.95,0.16
+Bet Bottom & Top,RAJ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.52,3.21
+Bet Bottom & Top,RAJ,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.3,-0.87
+Bet Bottom & Top,R0B,Monthly,AandE_Attends_Type1,M1,0.11,0.23
+Bet Bottom & Top,R0B,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.09,0.19
+Bet Bottom & Top,R0B,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.16,0.23
+Bet Bottom & Top,R0B,Monthly,Emerg_Adms_Via_Type1,M4,0.12,0.77
+Bet Bottom & Top,R0B,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.77,0.2
+Bet Bottom & Top,R0B,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.17,0.54
+Bet Bottom & Top,R0B,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.37,-0.93
+Bet Bottom & Top,R1H,Monthly,AandE_Attends_Type1,M1,-0.18,2.42
+Bet Bottom & Top,R1H,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.36,2.08
+Bet Bottom & Top,R1H,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.16,2.39
+Bet Bottom & Top,R1H,Monthly,Emerg_Adms_Via_Type1,M4,1.7,1.44
+Bet Bottom & Top,R1H,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.16,0.08
+Bet Bottom & Top,R1H,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.31,3.67
+Bet Bottom & Top,R1H,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.68,1.35
+Bet Bottom & Top,RAX,Monthly,AandE_Attends_Type1,M1,0.39,-0.67
+Bet Bottom & Top,RAX,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.66,-0.83
+Bet Bottom & Top,RAX,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.93,-0.37
+Bet Bottom & Top,RAX,Monthly,Emerg_Adms_Via_Type1,M4,-0.55,-0.74
+Bet Bottom & Top,RAX,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.26,-0.51
+Bet Bottom & Top,RAX,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.44,-0.87
+Bet Bottom & Top,RAX,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.4,-0.01
+Bet Bottom & Top,R1K,Monthly,AandE_Attends_Type1,M1,1.71,0.43
+Bet Bottom & Top,R1K,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.04,0.22
+Bet Bottom & Top,R1K,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.64,0.59
+Bet Bottom & Top,R1K,Monthly,Emerg_Adms_Via_Type1,M4,2.19,2.36
+Bet Bottom & Top,R1K,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.82,0.28
+Bet Bottom & Top,R1K,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.23,0.13
+Bet Bottom & Top,R1K,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.34,0.24
+Bet Bottom & Top,RAP,Monthly,AandE_Attends_Type1,M1,1.18,-0.17
+Bet Bottom & Top,RAP,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.97,-0.43
+Bet Bottom & Top,RAP,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.06,0.14
+Bet Bottom & Top,RAP,Monthly,Emerg_Adms_Via_Type1,M4,-0.08,-0.87
+Bet Bottom & Top,RAP,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.78,-1.07
+Bet Bottom & Top,RAP,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.06,-0.59
+Bet Bottom & Top,RAP,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.7,0.91
+Bet Bottom & Top,RAL,Monthly,AandE_Attends_Type1,M1,-2.27,1.16
+Bet Bottom & Top,RAL,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-2.72,0.87
+Bet Bottom & Top,RAL,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.66,1.29
+Bet Bottom & Top,RAL,Monthly,Emerg_Adms_Via_Type1,M4,2.41,0.43
+Bet Bottom & Top,RAL,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.62,-0.7
+Bet Bottom & Top,RAL,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.08,0.68
+Bet Bottom & Top,RAL,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.33,0.58
+Bottom 10%,RAS,Monthly,AandE_Attends_Type1,M1,0.91,-0.9
+Bottom 10%,RAS,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.48,-1.16
+Bottom 10%,RAS,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.35,-0.45
+Bottom 10%,RAS,Monthly,Emerg_Adms_Via_Type1,M4,2.54,-0.8
+Bottom 10%,RAS,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.34,-0.86
+Bottom 10%,RAS,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.67,-0.41
+Bottom 10%,RAS,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.3,-0.88
+Bet Bottom & Top,RA2,Monthly,AandE_Attends_Type1,M1,0.85,-0.78
+Bet Bottom & Top,RA2,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,2.05,-0.66
+Bet Bottom & Top,RA2,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.62,-0.77
+Bet Bottom & Top,RA2,Monthly,Emerg_Adms_Via_Type1,M4,1.7,-0.46
+Bet Bottom & Top,RA2,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.53,-0.15
+Bet Bottom & Top,RA2,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.12,-0.55
+Bet Bottom & Top,RA2,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.17,-0.93
+Bet Bottom & Top,RA7,Monthly,AandE_Attends_Type1,M1,0.22,0.64
+Bet Bottom & Top,RA7,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.88,0.88
+Bet Bottom & Top,RA7,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1.07,0.28
+Bet Bottom & Top,RA7,Monthly,Emerg_Adms_Via_Type1,M4,1.97,1.01
+Bet Bottom & Top,RA7,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.79,0.31
+Bet Bottom & Top,RA7,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.4,0.68
+Bet Bottom & Top,RA7,Monthly,Dec_To_Adm_Over_12Hrs,M7,-1.08,0.59
+Bottom 10%,RA9,Monthly,AandE_Attends_Type1,M1,0.43,-0.98
+Bottom 10%,RA9,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.73,-1.35
+Bottom 10%,RA9,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.06,-0.4
+Bottom 10%,RA9,Monthly,Emerg_Adms_Via_Type1,M4,2.26,-0.74
+Bottom 10%,RA9,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.15,0.11
+Bottom 10%,RA9,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.41,-0.4
+Bottom 10%,RA9,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.5,-0.36
+Bet Bottom & Top,RBK,Monthly,AandE_Attends_Type1,M1,-0.12,-0.56
+Bet Bottom & Top,RBK,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.51,-0.45
+Bet Bottom & Top,RBK,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.11,-0.59
+Bet Bottom & Top,RBK,Monthly,Emerg_Adms_Via_Type1,M4,2.12,0.08
+Bet Bottom & Top,RBK,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.07,-0.27
+Bet Bottom & Top,RBK,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.95,0.36
+Bet Bottom & Top,RBK,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.96,-0.2
+Bet Bottom & Top,RAE,Monthly,AandE_Attends_Type1,M1,-0.05,-0.07
+Bet Bottom & Top,RAE,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.33,0.35
+Bet Bottom & Top,RAE,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.33,-0.53
+Bet Bottom & Top,RAE,Monthly,Emerg_Adms_Via_Type1,M4,1.35,-0.14
+Bet Bottom & Top,RAE,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.24,0.53
+Bet Bottom & Top,RAE,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.74,0.35
+Bet Bottom & Top,RAE,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.73,-0.7
+Bet Bottom & Top,RBL,Monthly,AandE_Attends_Type1,M1,0.34,-0.56
+Bet Bottom & Top,RBL,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.34,-0.65
+Bet Bottom & Top,RBL,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.31,-0.37
+Bet Bottom & Top,RBL,Monthly,Emerg_Adms_Via_Type1,M4,-0.6,-0.72
+Bet Bottom & Top,RBL,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.04,0.64
+Bet Bottom & Top,RBL,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.43,-0.48
+Bet Bottom & Top,RBD,Monthly,AandE_Attends_Type1,M1,0.36,-1.26
+Bet Bottom & Top,RBD,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.58,-1.28
+Bet Bottom & Top,RBD,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.02,-1.01
+Bet Bottom & Top,RBD,Monthly,Emerg_Adms_Via_Type1,M4,-0.27,-1.06
+Bet Bottom & Top,RBD,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.74,-0.72
+Bet Bottom & Top,RBD,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.81,-1.02
+Bet Bottom & Top,RBD,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.24,-0.9
+Bet Bottom & Top,RBL,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.84,-0.19
+Bet Bottom & Top,RBN,Monthly,AandE_Attends_Type1,M1,0.62,-0.17
+Bet Bottom & Top,RBN,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.98,-0.45
+Bet Bottom & Top,RBN,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.01,0.17
+Bet Bottom & Top,RBN,Monthly,Emerg_Adms_Via_Type1,M4,2.4,1.36
+Bet Bottom & Top,RBN,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.13,-0.73
+Bet Bottom & Top,RBN,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.58,-0.94
+Bet Bottom & Top,RBN,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.44,-0.94
+Bet Bottom & Top,RBT,Monthly,AandE_Attends_Type1,M1,0.82,-0.73
+Bet Bottom & Top,RBT,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.23,-0.99
+Bet Bottom & Top,RBT,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.06,-0.32
+Bet Bottom & Top,RBT,Monthly,Emerg_Adms_Via_Type1,M4,1.21,-0.35
+Bet Bottom & Top,RBT,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.61,-0.2
+Bet Bottom & Top,RBT,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.99,-0.3
+Bet Bottom & Top,RBT,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.57,0.29
+Bet Bottom & Top,RCB,Monthly,AandE_Attends_Type1,M1,0.71,-0.25
+Bet Bottom & Top,RCB,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.25,-0.63
+Bet Bottom & Top,RCB,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.43,0.21
+Bet Bottom & Top,RCB,Monthly,Emerg_Adms_Via_Type1,M4,2.12,0.62
+Bet Bottom & Top,RCB,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.74,0.66
+Bet Bottom & Top,RCB,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.85,0.03
+Bet Bottom & Top,RCB,Monthly,Dec_To_Adm_Over_12Hrs,M7,1,2.07
+Top 10%,RCD,Monthly,AandE_Attends_Type1,M1,0.53,-1.21
+Top 10%,RCD,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,2.24,-0.92
+Top 10%,RCD,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1.23,-1.32
+Top 10%,RCD,Monthly,Emerg_Adms_Via_Type1,M4,1.06,-1.18
+Top 10%,RCD,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.9,-0.71
+Top 10%,RCD,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.46,-0.91
+Top 10%,RCD,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.38,-0.82
+Bet Bottom & Top,RCF,Monthly,AandE_Attends_Type1,M1,-0.63,-1.03
+Bet Bottom & Top,RCF,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.49,-1.06
+Bet Bottom & Top,RCF,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.2,-0.81
+Bet Bottom & Top,RCF,Monthly,Emerg_Adms_Via_Type1,M4,-0.37,-1.02
+Bet Bottom & Top,RCF,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.13,-0.56
+Bet Bottom & Top,RCF,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.11,-0.67
+Bet Bottom & Top,RCF,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.52,-0.94
+Bet Bottom & Top,RCX,Monthly,AandE_Attends_Type1,M1,-1.27,-0.85
+Bet Bottom & Top,RCX,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-1.45,-0.83
+Bet Bottom & Top,RCX,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.61,-0.73
+Bet Bottom & Top,RCX,Monthly,Emerg_Adms_Via_Type1,M4,1.44,-0.46
+Bet Bottom & Top,RCX,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.61,-0.54
+Bet Bottom & Top,RCX,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.4,-0.15
+Bet Bottom & Top,RCX,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.33,0.53
+Bet Bottom & Top,RD1,Monthly,AandE_Attends_Type1,M1,0.22,-0.59
+Bet Bottom & Top,RD1,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.56,-0.71
+Bet Bottom & Top,RD1,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.77,-0.35
+Bet Bottom & Top,RD1,Monthly,Emerg_Adms_Via_Type1,M4,0.47,-0.46
+Bet Bottom & Top,RD1,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.19,0.31
+Bet Bottom & Top,RD1,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.21,0.03
+Bet Bottom & Top,RD1,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.19,-0.85
+Bet Bottom & Top,RN3,Monthly,AandE_Attends_Type1,M1,-0.4,-1.12
+Bet Bottom & Top,RN3,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.42,-1.08
+Bet Bottom & Top,RN3,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1.04,-0.96
+Bet Bottom & Top,RN3,Monthly,Emerg_Adms_Via_Type1,M4,-0.43,-0.71
+Bet Bottom & Top,RN3,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.04,0.5
+Bet Bottom & Top,RN3,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.97,-0.83
+Bet Bottom & Top,RN3,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.49,-0.46
+Bet Bottom & Top,RD8,Monthly,AandE_Attends_Type1,M1,-0.17,-0.49
+Bet Bottom & Top,RD8,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.12,-0.15
+Bet Bottom & Top,RD8,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.07,-0.78
+Bet Bottom & Top,RD8,Monthly,Emerg_Adms_Via_Type1,M4,-0.07,-0.88
+Bet Bottom & Top,RD8,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.13,-0.75
+Bet Bottom & Top,RD8,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.2,-0.28
+Bet Bottom & Top,RNZ,Monthly,AandE_Attends_Type1,M1,0.12,-1.29
+Bet Bottom & Top,RNZ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.36,-1.23
+Bet Bottom & Top,RNZ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.26,-1.13
+Bet Bottom & Top,RNZ,Monthly,Emerg_Adms_Via_Type1,M4,1.03,-1.14
+Bet Bottom & Top,RNZ,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.39,-0.31
+Bet Bottom & Top,RNZ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.43,-0.64
+Bet Bottom & Top,RNZ,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.76,-0.93
+Bet Bottom & Top,RRK,Monthly,AandE_Attends_Type1,M1,0.25,4.06
+Bet Bottom & Top,RRK,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.01,3.4
+Bet Bottom & Top,RRK,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.56,4.11
+Bet Bottom & Top,RRK,Monthly,Emerg_Adms_Via_Type1,M4,1.77,4.26
+Bet Bottom & Top,RRK,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.04,5.09
+Bet Bottom & Top,RRK,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.44,4.36
+Bet Bottom & Top,RRK,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.77,2.88
+Bet Bottom & Top,RDE,Monthly,AandE_Attends_Type1,M1,-0.02,0.64
+Bet Bottom & Top,RDE,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.97,0.11
+Bet Bottom & Top,RDE,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.98,1.12
+Bet Bottom & Top,RDE,Monthly,Emerg_Adms_Via_Type1,M4,2.25,1.01
+Bet Bottom & Top,RDE,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.28,-0.09
+Bet Bottom & Top,RDE,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.66,1.07
+Bet Bottom & Top,RDE,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.12,-0.21
+Bet Bottom & Top,RTH,Monthly,AandE_Attends_Type1,M1,0.06,0.3
+Bet Bottom & Top,RTH,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.42,0.33
+Bet Bottom & Top,RTH,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.32,0.21
+Bet Bottom & Top,RTH,Monthly,Emerg_Adms_Via_Type1,M4,1.23,0.41
+Bet Bottom & Top,RTH,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.18,3.65
+Bet Bottom & Top,RTH,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.31,0.4
+Bet Bottom & Top,RTH,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.96,-0.94
+Bet Bottom & Top,RHW,Monthly,AandE_Attends_Type1,M1,0.19,0.3
+Bet Bottom & Top,RHW,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.28,0.69
+Bottom 10%,REF,Monthly,AandE_Attends_Type1,M1,-0.11,-1.01
+Bet Bottom & Top,RHW,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.02,-0.18
+Bottom 10%,REF,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.52,-1.3
+Bet Bottom & Top,RHW,Monthly,Emerg_Adms_Via_Type1,M4,-1.61,-0.39
+Bottom 10%,REF,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.32,-0.52
+Bet Bottom & Top,RHW,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.28,-0.3
+Bottom 10%,REF,Monthly,Emerg_Adms_Via_Type1,M4,0.25,-0.72
+Bet Bottom & Top,RHW,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.68,-0.29
+Bottom 10%,REF,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.23,0.22
+Bet Bottom & Top,RGN,Monthly,AandE_Attends_Type1,M1,0.27,0.29
+Bottom 10%,REF,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.94,-0.64
+Bet Bottom & Top,RGN,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.23,0.13
+Bottom 10%,REF,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.02,1.08
+Bet Bottom & Top,RGN,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.66,0.41
+Bet Bottom & Top,REM,Monthly,AandE_Attends_Type1,M1,0.53,1.25
+Bet Bottom & Top,RGN,Monthly,Emerg_Adms_Via_Type1,M4,0.33,0
+Bet Bottom & Top,REM,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.97,1.2
+Bet Bottom & Top,RGN,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.01,0.32
+Bet Bottom & Top,REM,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.87,1.1
+Bet Bottom & Top,RGN,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.28,-0.33
+Bet Bottom & Top,REM,Monthly,Emerg_Adms_Via_Type1,M4,-0.13,1.1
+Bet Bottom & Top,RGN,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.51,1.27
+Bet Bottom & Top,REM,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.32,1.09
+Bet Bottom & Top,RJR,Monthly,AandE_Attends_Type1,M1,-0.38,-0.86
+Bet Bottom & Top,REM,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.79,2.36
+Bet Bottom & Top,RJR,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.22,-0.9
+Bet Bottom & Top,REM,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.28,3.07
+Bet Bottom & Top,RJR,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.33,-0.67
+Bottom 10%,RF4,Monthly,AandE_Attends_Type1,M1,0.22,0.24
+Bet Bottom & Top,RJR,Monthly,Emerg_Adms_Via_Type1,M4,0.48,-0.98
+Bottom 10%,RF4,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.35,-0.67
+Bet Bottom & Top,RJR,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.95,0.01
+Bottom 10%,RF4,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.43,1.22
+Bet Bottom & Top,RJR,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.35,-0.55
+Bottom 10%,RF4,Monthly,Emerg_Adms_Via_Type1,M4,0.55,0.86
+Bet Bottom & Top,RJR,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.76,1.19
+Bottom 10%,RF4,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.05,-0.77
+Bet Bottom & Top,RJN,Monthly,AandE_Attends_Type1,M1,-0.12,-1.3
+Bottom 10%,RF4,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.61,-0.06
+Bet Bottom & Top,RJN,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.11,-1.33
+Bottom 10%,RF4,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.55,1.25
+Bet Bottom & Top,RJN,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.23,-1.05
+Bet Bottom & Top,RFF,Monthly,AandE_Attends_Type1,M1,-0.73,-0.54
+Bet Bottom & Top,RJN,Monthly,Emerg_Adms_Via_Type1,M4,-0.12,-1.38
+Bet Bottom & Top,RFF,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.11,-0.34
+Bet Bottom & Top,RJN,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.65,-1.1
+Bet Bottom & Top,RFF,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.4,-0.66
+Bet Bottom & Top,RJN,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.88,-0.83
+Bet Bottom & Top,RFF,Monthly,Emerg_Adms_Via_Type1,M4,1.52,-0.29
+Bet Bottom & Top,RJN,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.5,0.07
+Bet Bottom & Top,RFF,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.19,-0.65
+Bet Bottom & Top,RFF,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.46,-0.71
+Bet Bottom & Top,RFF,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.4,-0.94
+Bottom 10%,RFS,Monthly,AandE_Attends_Type1,M1,2.03,-1
+Bottom 10%,RFS,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.02,-1.25
+Bottom 10%,RFS,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,2.07,-0.55
+Bottom 10%,RFS,Monthly,Emerg_Adms_Via_Type1,M4,1.96,-0.41
+Bottom 10%,RFS,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.95,-0.56
+Bottom 10%,RFS,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.21,0.16
+Bottom 10%,RFS,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.46,-0.59
+Bet Bottom & Top,RLT,Monthly,AandE_Attends_Type1,M1,0.21,-0.88
+Bet Bottom & Top,RLT,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.24,-0.67
+Bet Bottom & Top,RLT,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.91,-0.97
+Bet Bottom & Top,RGP,Monthly,AandE_Attends_Type1,M1,0.89,-0.79
+Bet Bottom & Top,RLT,Monthly,Emerg_Adms_Via_Type1,M4,-1.53,-1.34
+Bet Bottom & Top,RGP,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.37,-0.73
+Bet Bottom & Top,RLT,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.9,-1.26
+Bet Bottom & Top,RGP,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.89,-0.74
+Bet Bottom & Top,RLT,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.41,-0.28
+Bet Bottom & Top,RGP,Monthly,Emerg_Adms_Via_Type1,M4,0.75,-0.89
+Bet Bottom & Top,RLT,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.45,-0.94
+Bet Bottom & Top,RGP,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.37,-0.71
+Bet Bottom & Top,RJC,Monthly,AandE_Attends_Type1,M1,0.87,-0.64
+Bet Bottom & Top,RGP,Monthly,Dec_To_Adm_4_to_12Hrs,M6,2.09,-0.34
+Bet Bottom & Top,RJC,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.35,-0.34
+Bet Bottom & Top,RGP,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.38,-0.05
+Bet Bottom & Top,RJC,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.46,-0.85
+Bet Bottom & Top,RH5,Monthly,AandE_Attends_Type1,M1,0.32,-0.8
+Bet Bottom & Top,RJC,Monthly,Emerg_Adms_Via_Type1,M4,0.16,-0.71
+Bet Bottom & Top,RH5,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.71,-0.83
+Bet Bottom & Top,RJC,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.59,-0.47
+Bet Bottom & Top,RH5,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.89,-0.64
+Bet Bottom & Top,RJC,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.13,-0.63
+Bet Bottom & Top,RH5,Monthly,Emerg_Adms_Via_Type1,M4,1.68,-0.71
+Bet Bottom & Top,RJC,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.03,-0.94
+Bet Bottom & Top,RH5,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.77,0.54
+Bet Bottom & Top,RKB,Monthly,AandE_Attends_Type1,M1,-0.06,0.1
+Bet Bottom & Top,RH5,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.52,-0.56
+Bet Bottom & Top,RKB,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.84,0.04
+Bet Bottom & Top,RH5,Monthly,Dec_To_Adm_Over_12Hrs,M7,-1.1,-0.83
+Bet Bottom & Top,RKB,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1.22,0.15
+Bet Bottom & Top,RH8,Monthly,AandE_Attends_Type1,M1,0.09,0.24
+Bet Bottom & Top,RKB,Monthly,Emerg_Adms_Via_Type1,M4,0.2,0.1
+Bet Bottom & Top,RH8,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.04,0.02
+Bet Bottom & Top,RKB,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.84,0.81
+Bet Bottom & Top,RH8,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.16,0.45
+Bet Bottom & Top,RKB,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.65,0.24
+Bet Bottom & Top,RH8,Monthly,Emerg_Adms_Via_Type1,M4,0.54,0.15
+Bet Bottom & Top,RKB,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.44,-0.78
+Bet Bottom & Top,RH8,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.29,1.4
+Bet Bottom & Top,RR7,Monthly,AandE_Attends_Type1,M1,0.05,-0.96
+Bet Bottom & Top,RH8,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.64,0.1
+Bet Bottom & Top,RR7,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.28,-0.88
+Bet Bottom & Top,RH8,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.33,0.13
+Bet Bottom & Top,RR7,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.2,-0.88
+Bet Bottom & Top,RHM,Monthly,AandE_Attends_Type1,M1,-0.36,0.02
+Bet Bottom & Top,RR7,Monthly,Emerg_Adms_Via_Type1,M4,1.47,-0.82
+Bet Bottom & Top,RHM,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.28,0.3
+Bet Bottom & Top,RR7,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.28,-0.41
+Bet Bottom & Top,RHM,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.51,-0.3
+Bet Bottom & Top,RR7,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.59,0.14
+Bet Bottom & Top,RHM,Monthly,Emerg_Adms_Via_Type1,M4,1.14,0.23
+Bet Bottom & Top,RR7,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.35,-0.72
+Bet Bottom & Top,RHM,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.8,0.34
+Bet Bottom & Top,RNN,Monthly,AandE_Attends_Type1,M1,0.17,-0.42
+Bet Bottom & Top,RHM,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0,-0.62
+Bet Bottom & Top,RNN,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.1,-0.29
+Bet Bottom & Top,RHM,Monthly,Dec_To_Adm_Over_12Hrs,M7,2,-0.92
+Bet Bottom & Top,RNN,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.07,-0.49
+Bet Bottom & Top,RHQ,Monthly,AandE_Attends_Type1,M1,0.63,-0.32
+Bet Bottom & Top,RNN,Monthly,Emerg_Adms_Via_Type1,M4,1.02,-0.5
+Bet Bottom & Top,RHQ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.86,-0.49
+Bet Bottom & Top,RNN,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.66,-0.34
+Bet Bottom & Top,RHQ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.07,-0.08
+Bet Bottom & Top,RNN,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.24,-0.27
+Bet Bottom & Top,RHQ,Monthly,Emerg_Adms_Via_Type1,M4,0.53,0.1
+Bet Bottom & Top,RNN,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.02,0.29
+Bet Bottom & Top,RHQ,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.54,2.27
+Top 10%,RTF,Monthly,AandE_Attends_Type1,M1,0.14,-0.36
+Bet Bottom & Top,RHQ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.24,0.51
+Top 10%,RTF,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-1.19,0.22
+Bet Bottom & Top,RHQ,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.45,-0.91
+Top 10%,RTF,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.27,-0.95
+Top 10%,RTF,Monthly,Emerg_Adms_Via_Type1,M4,-0.66,1.17
+Top 10%,RTF,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.37,-0.07
+Top 10%,RTF,Monthly,Dec_To_Adm_4_to_12Hrs,M6,2.79,-1.2
+Top 10%,RTF,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.3,-0.94
+Bet Bottom & Top,RTD,Monthly,AandE_Attends_Type1,M1,0.04,0.26
+Bet Bottom & Top,RTD,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.47,0.38
+Bet Bottom & Top,RTD,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.52,0.08
+Bet Bottom & Top,RJ1,Monthly,AandE_Attends_Type1,M1,0.07,0.35
+Bet Bottom & Top,RTD,Monthly,Emerg_Adms_Via_Type1,M4,0.21,0.18
+Bet Bottom & Top,RJ1,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.55,0.69
+Bet Bottom & Top,RTD,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.81,2.21
+Bet Bottom & Top,RJ1,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.95,-0.08
+Bet Bottom & Top,RTD,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.11,-0.28
+Bet Bottom & Top,RJ1,Monthly,Emerg_Adms_Via_Type1,M4,1.59,0.38
+Bet Bottom & Top,RTD,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.45,-0.69
+Bet Bottom & Top,RJ1,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.52,-0.19
+Bet Bottom & Top,RJ1,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.41,-1.23
+Bet Bottom & Top,RJ1,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.91,-0.82
+Bet Bottom & Top,RJ2,Monthly,AandE_Attends_Type1,M1,-0.01,0.6
+Bet Bottom & Top,RJ2,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.64,0.12
+Bet Bottom & Top,RJ2,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.76,1.03
+Bet Bottom & Top,RJ2,Monthly,Emerg_Adms_Via_Type1,M4,0.42,0.38
+Bet Bottom & Top,RJ2,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.97,0.15
+Bet Bottom & Top,RJ2,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.98,0.48
+Bet Bottom & Top,RJ2,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.19,1.34
+Bet Bottom & Top,RJ6,Monthly,AandE_Attends_Type1,M1,0.23,0.33
+Bet Bottom & Top,RJ6,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.68,0.71
+Bet Bottom & Top,RJ6,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.45,-0.14
+Bet Bottom & Top,RJ6,Monthly,Emerg_Adms_Via_Type1,M4,2.43,-1.02
+Bet Bottom & Top,RJ6,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.61,-1.1
+Top 10%,RQX,Monthly,AandE_Attends_Type1,M1,0.07,-0.06
+Bet Bottom & Top,RJ6,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.36,-0.39
+Top 10%,RQX,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.12,0.8
+Bet Bottom & Top,RJ6,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.83,-0.32
+Top 10%,RQX,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.05,-1
+Top 10%,RJ7,Monthly,AandE_Attends_Type1,M1,-0.39,-0.23
+Top 10%,RQX,Monthly,Emerg_Adms_Via_Type1,M4,1.22,-0.84
+Top 10%,RJ7,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.42,0.26
+Top 10%,RQX,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.36,-1.02
+Top 10%,RJ7,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.25,-0.73
+Top 10%,RQX,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.66,-1.05
+Top 10%,RJ7,Monthly,Emerg_Adms_Via_Type1,M4,0.36,-0.41
+Top 10%,RQX,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.76,-0.91
+Top 10%,RJ7,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.61,-0.17
+Bet Bottom & Top,RTE,Monthly,AandE_Attends_Type1,M1,0.72,0.31
+Top 10%,RJ7,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.19,-0.57
+Bet Bottom & Top,RTE,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.15,0.39
+Top 10%,RJ7,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.01,0.74
+Bet Bottom & Top,RTE,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.1,0.16
+Bet Bottom & Top,RTE,Monthly,Emerg_Adms_Via_Type1,M4,1.12,-0.21
+Bet Bottom & Top,RTE,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.78,0.58
+Bet Bottom & Top,RTE,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.49,-0.53
+Bet Bottom & Top,RTE,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.51,0.85
+Bet Bottom & Top,RMC,Monthly,AandE_Attends_Type1,M1,-0.27,-0.36
+Bet Bottom & Top,RMC,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.79,-0.21
+Bet Bottom & Top,RMC,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1.21,-0.47
+Bet Bottom & Top,RJE,Monthly,AandE_Attends_Type1,M1,0.47,0.57
+Bet Bottom & Top,RMC,Monthly,Emerg_Adms_Via_Type1,M4,0.63,-0.63
+Bet Bottom & Top,RJE,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.51,0.16
+Bet Bottom & Top,RMC,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.61,-0.29
+Bet Bottom & Top,RJE,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.46,0.93
+Bet Bottom & Top,RMC,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.33,-0.48
+Bet Bottom & Top,RJE,Monthly,Emerg_Adms_Via_Type1,M4,2.41,1.54
+Bet Bottom & Top,RMC,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.71,0.4
+Bet Bottom & Top,RJE,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.8,2.25
+Bet Bottom & Top,RJE,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.15,0.16
+Bet Bottom & Top,RJE,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.45,1.61
+Bet Bottom & Top,RJL,Monthly,AandE_Attends_Type1,M1,1.32,0.51
+Bet Bottom & Top,RJL,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.07,0.5
+Bet Bottom & Top,RJL,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.67,0.44
+Bet Bottom & Top,RJL,Monthly,Emerg_Adms_Via_Type1,M4,2.09,0.87
+Bet Bottom & Top,RJL,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.14,-0.53
+Bet Bottom & Top,RM3,Monthly,AandE_Attends_Type1,M1,0.79,2.71
+Bet Bottom & Top,RJL,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.08,-0.21
+Bet Bottom & Top,RM3,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.21,2.32
+Bet Bottom & Top,RJL,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.19,1.47
+Bet Bottom & Top,RM3,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.2,2.68
+Bet Bottom & Top,RM3,Monthly,Emerg_Adms_Via_Type1,M4,1.22,2.17
+Bet Bottom & Top,RM3,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.46,0.52
+Bet Bottom & Top,RM3,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.29,0.93
+Bet Bottom & Top,RM3,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.51,1.27
+Bet Bottom & Top,RMP,Monthly,AandE_Attends_Type1,M1,0.22,-0.53
+Bet Bottom & Top,RMP,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.36,-0.71
+Bet Bottom & Top,RMP,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.47,-0.24
+Bet Bottom & Top,RMP,Monthly,Emerg_Adms_Via_Type1,M4,1.72,-0.51
+Bet Bottom & Top,RMP,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.02,-0.71
+Bet Bottom & Top,RMP,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.09,-0.44
+Bet Bottom & Top,RMP,Monthly,Dec_To_Adm_Over_12Hrs,M7,-1.19,-0.54
+Bet Bottom & Top,RRF,Monthly,AandE_Attends_Type1,M1,0.6,-0.49
+Bet Bottom & Top,RRF,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.05,-0.72
+Bet Bottom & Top,RRF,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.98,-0.15
+Bet Bottom & Top,RJZ,Monthly,AandE_Attends_Type1,M1,0.53,0.79
+Bet Bottom & Top,RRF,Monthly,Emerg_Adms_Via_Type1,M4,0.09,-0.57
+Bet Bottom & Top,RJZ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.46,0.29
+Bet Bottom & Top,RRF,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.77,-0.41
+Bet Bottom & Top,RJZ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.17,1.21
+Bet Bottom & Top,RRF,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.75,0.49
+Bet Bottom & Top,RJZ,Monthly,Emerg_Adms_Via_Type1,M4,0.13,0.31
+Bet Bottom & Top,RRF,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.52,0.05
+Bet Bottom & Top,RJZ,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.59,-0.68
+Bet Bottom & Top,RN5,Monthly,AandE_Attends_Type1,M1,0.94,0.19
+Bet Bottom & Top,RJZ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.09,0.83
+Bet Bottom & Top,RN5,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1,0.45
+Bet Bottom & Top,RJZ,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.35,2.44
+Bet Bottom & Top,RN5,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.02,-0.12
+Bet Bottom & Top,RK5,Monthly,AandE_Attends_Type1,M1,0.99,-0.15
+Bet Bottom & Top,RN5,Monthly,Emerg_Adms_Via_Type1,M4,1.26,0.58
+Bet Bottom & Top,RK5,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.25,0.05
+Bet Bottom & Top,RN5,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.15,0.02
+Bet Bottom & Top,RK5,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.05,-0.35
+Bet Bottom & Top,RN5,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.57,0.4
+Bet Bottom & Top,RK5,Monthly,Emerg_Adms_Via_Type1,M4,1.18,0.22
+Bet Bottom & Top,RN5,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.34,-0.94
+Bet Bottom & Top,RK5,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.52,-0.8
+Bet Bottom & Top,RK5,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.35,0.2
+Bet Bottom & Top,RK5,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.82,-0.18
+Bet Bottom & Top,RKE,Monthly,AandE_Attends_Type1,M1,-0.19,-0.41
+Bet Bottom & Top,RKE,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.5,-0.15
+Bet Bottom & Top,RKE,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.47,-0.63
+Bet Bottom & Top,RKE,Monthly,Emerg_Adms_Via_Type1,M4,0.93,-1.29
+Bet Bottom & Top,RKE,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.17,-1.23
+Bet Bottom & Top,RLQ,Monthly,AandE_Attends_Type1,M1,0.78,-0.95
+Bet Bottom & Top,RKE,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.78,-0.86
+Bet Bottom & Top,RLQ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.24,-0.98
+Bet Bottom & Top,RKE,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.73,-0.11
+Bet Bottom & Top,RLQ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.56,-0.75
+Bet Bottom & Top,RL4,Monthly,AandE_Attends_Type1,M1,0.2,0.39
+Bet Bottom & Top,RLQ,Monthly,Emerg_Adms_Via_Type1,M4,1.49,-0.95
+Bet Bottom & Top,RL4,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.81,0.68
+Bet Bottom & Top,RLQ,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.21,-0.62
+Bet Bottom & Top,RL4,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.21,-0.01
+Bet Bottom & Top,RLQ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.26,-1.15
+Bet Bottom & Top,RL4,Monthly,Emerg_Adms_Via_Type1,M4,2.2,1.84
+Bet Bottom & Top,RLQ,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.62,-0.2
+Bet Bottom & Top,RL4,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.26,-0.18
+Bet Bottom & Top,RQW,Monthly,AandE_Attends_Type1,M1,-0.04,-0.09
+Bet Bottom & Top,RL4,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.06,0.25
+Bet Bottom & Top,RQW,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.7,-0.28
+Bet Bottom & Top,RL4,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.16,-0.63
+Bet Bottom & Top,RQW,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1,0.12
+Bet Bottom & Top,RQW,Monthly,Emerg_Adms_Via_Type1,M4,2.08,-0.53
+Bet Bottom & Top,RQW,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.35,-0.81
+Bet Bottom & Top,RQW,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.16,-0.61
+Bet Bottom & Top,RQW,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.12,-0.57
+Bottom 10%,RTG,Monthly,AandE_Attends_Type1,M1,0.64,0.95
+Bottom 10%,RTG,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.12,-0.03
+Bottom 10%,RTG,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.74,1.88
+Bet Bottom & Top,RM1,Monthly,AandE_Attends_Type1,M1,0.55,-0.01
+Bottom 10%,RTG,Monthly,Emerg_Adms_Via_Type1,M4,0.37,0.57
+Bet Bottom & Top,RM1,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,2.06,-0.01
+Bottom 10%,RTG,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.6,1.46
+Bet Bottom & Top,RM1,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.88,-0.01
+Bottom 10%,RTG,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.76,0.51
+Bet Bottom & Top,RM1,Monthly,Emerg_Adms_Via_Type1,M4,0.84,-0.41
+Bottom 10%,RTG,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.54,0.86
+Bet Bottom & Top,RM1,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.54,0.64
+Top 10%,RN7,Monthly,AandE_Attends_Type1,M1,0.71,0.19
+Bet Bottom & Top,RM1,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.74,0.36
+Top 10%,RN7,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.98,0.8
+Bet Bottom & Top,RM1,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.18,0.42
+Top 10%,RN7,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.63,-0.53
+Top 10%,RN7,Monthly,Emerg_Adms_Via_Type1,M4,1.48,-0.13
+Top 10%,RN7,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.22,-0.8
+Top 10%,RN7,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-2.28,-0.76
+Top 10%,RN7,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.6,-0.94
+Bet Bottom & Top,RPA,Monthly,AandE_Attends_Type1,M1,-0.3,-0.52
+Bet Bottom & Top,RPA,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.41,-0.47
+Bet Bottom & Top,RPA,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.74,-0.47
+Bet Bottom & Top,RPA,Monthly,Emerg_Adms_Via_Type1,M4,-0.2,-0.53
+Bet Bottom & Top,RPA,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.1,0
+Bet Bottom & Top,RPA,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.97,-0.24
+Bet Bottom & Top,RPA,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.45,0.58
+Bet Bottom & Top,RRV,Monthly,AandE_Attends_Type1,M1,0.6,0.43
+Bet Bottom & Top,RRV,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.46,0.82
+Bet Bottom & Top,RRV,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.44,-0.08
+Bet Bottom & Top,RRV,Monthly,Emerg_Adms_Via_Type1,M4,-1.31,-1.1
+Bet Bottom & Top,RRV,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.71,-0.96
+Bet Bottom & Top,RRV,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.73,-0.63
+Bet Bottom & Top,RRV,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.37,-0.68
+Bet Bottom & Top,RNA,Monthly,AandE_Attends_Type1,M1,0.67,-0.26
+Bet Bottom & Top,RNA,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.99,-0.25
+Bet Bottom & Top,RNA,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.53,-0.23
+Bet Bottom & Top,RNA,Monthly,Emerg_Adms_Via_Type1,M4,1.31,0.3
+Bet Bottom & Top,RNA,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.52,0.75
+Bet Bottom & Top,RNA,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.21,-0.32
+Bet Bottom & Top,RNA,Monthly,Dec_To_Adm_Over_12Hrs,M7,-1,-0.86
+Bet Bottom & Top,RNS,Monthly,AandE_Attends_Type1,M1,-0.16,-0.39
+Bet Bottom & Top,RNS,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.29,-0.42
+Bet Bottom & Top,RNS,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.18,-0.29
+Bet Bottom & Top,RNS,Monthly,Emerg_Adms_Via_Type1,M4,1.2,-0.76
+Bet Bottom & Top,RNS,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.22,0.34
+Bet Bottom & Top,RNS,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.46,-0.53
+Bet Bottom & Top,RNS,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.15,0.67
+Bet Bottom & Top,RP5,Monthly,AandE_Attends_Type1,M1,0.08,0.35
+Bet Bottom & Top,RP5,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.37,0.35
+Bet Bottom & Top,RP5,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.55,0.29
+Bet Bottom & Top,RP5,Monthly,Emerg_Adms_Via_Type1,M4,1.33,0.08
+Bet Bottom & Top,RP5,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.72,-0.3
+Bet Bottom & Top,RP5,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0,0.76
+Bet Bottom & Top,RP5,Monthly,Dec_To_Adm_Over_12Hrs,M7,-1.13,-0.62
+Bet Bottom & Top,RR8,Monthly,AandE_Attends_Type1,M1,-0.01,1.26
+Bet Bottom & Top,RR8,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.98,1.22
+Bet Bottom & Top,RR8,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1,1.1
+Bet Bottom & Top,RR8,Monthly,Emerg_Adms_Via_Type1,M4,0.93,0.37
+Bet Bottom & Top,RR8,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.43,0.07
+Bet Bottom & Top,RR8,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.18,1.39
+Bet Bottom & Top,RR8,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.7,0.25
+Bet Bottom & Top,RTK,Monthly,AandE_Attends_Type1,M1,-0.56,-0.22
+Bet Bottom & Top,RTK,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-1.11,-0.32
+Bet Bottom & Top,RTK,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.38,-0.07
+Bet Bottom & Top,RTK,Monthly,Emerg_Adms_Via_Type1,M4,2.48,-0.13
+Bet Bottom & Top,RTK,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.26,-0.18
+Bet Bottom & Top,RTK,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.23,-0.15
+Bet Bottom & Top,RTK,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.26,-0.93
+Bet Bottom & Top,RTP,Monthly,AandE_Attends_Type1,M1,-0.11,-0.33
+Bet Bottom & Top,RTP,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.22,-0.12
+Bet Bottom & Top,RTP,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.34,-0.51
+Bet Bottom & Top,RTP,Monthly,Emerg_Adms_Via_Type1,M4,1.11,-0.07
+Bet Bottom & Top,RTP,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.98,-0.15
+Bet Bottom & Top,RTP,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.95,-0.19
+Bet Bottom & Top,RTP,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.28,0.55
+Bet Bottom & Top,RTR,Monthly,AandE_Attends_Type1,M1,-0.05,-0.16
+Bet Bottom & Top,RTR,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.63,-0.15
+Bet Bottom & Top,RTR,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.63,-0.15
+Bet Bottom & Top,RTR,Monthly,Emerg_Adms_Via_Type1,M4,0.99,-0.45
+Bet Bottom & Top,RTR,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.38,1.1
+Bet Bottom & Top,RTR,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.05,0.39
+Bet Bottom & Top,RTR,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.47,-0.5
+Bet Bottom & Top,RTX,Monthly,AandE_Attends_Type1,M1,0.42,-0.42
+Bet Bottom & Top,RTX,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.9,-0.12
+Bet Bottom & Top,RTX,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.28,-0.69
+Bet Bottom & Top,RTX,Monthly,Emerg_Adms_Via_Type1,M4,1.79,-0.18
+Bet Bottom & Top,RTX,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.13,-0.27
+Bet Bottom & Top,RTX,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.5,-0.49
+Bet Bottom & Top,RTX,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.86,0.51
+Top 10%,RVJ,Monthly,AandE_Attends_Type1,M1,0.31,-0.5
+Top 10%,RVJ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.95,0.1
+Top 10%,RVJ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-1.5,-1.09
+Top 10%,RVJ,Monthly,Emerg_Adms_Via_Type1,M4,0.83,0.12
+Top 10%,RVJ,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.73,0.99
+Top 10%,RVJ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.42,-0.41
+Top 10%,RVJ,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.71,-0.56
+Top 10%,RVR,Monthly,AandE_Attends_Type1,M1,0.31,0.44
+Top 10%,RVR,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.19,1.16
+Top 10%,RVR,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.31,-0.43
+Top 10%,RVR,Monthly,Emerg_Adms_Via_Type1,M4,0.09,-0.75
+Top 10%,RVR,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.47,-1.12
+Top 10%,RVR,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.1,-0.46
+Top 10%,RVR,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.59,0.13
+Bottom 10%,RVV,Monthly,AandE_Attends_Type1,M1,-1.79,0.32
+Bottom 10%,RVV,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-2.08,-0.43
+Bottom 10%,RVV,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.65,1.09
+Bottom 10%,RVV,Monthly,Emerg_Adms_Via_Type1,M4,-0.53,0.31
+Bottom 10%,RVV,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.24,0.66
+Bottom 10%,RVV,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.8,-0.48
+Bottom 10%,RVV,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.99,2.41
+Bet Bottom & Top,RVY,Monthly,AandE_Attends_Type1,M1,-0.15,-0.61
+Bet Bottom & Top,RVY,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.29,-0.41
+Bet Bottom & Top,RVY,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.36,-0.73
+Bet Bottom & Top,RVY,Monthly,Emerg_Adms_Via_Type1,M4,-0.09,-0.73
+Bet Bottom & Top,RVY,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.12,-1.14
+Bet Bottom & Top,RVY,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.84,-0.58
+Bet Bottom & Top,RVY,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.6,-0.08
+Bottom 10%,RWA,Monthly,AandE_Attends_Type1,M1,0.59,-0.09
+Bottom 10%,RWA,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.14,-0.51
+Bottom 10%,RWA,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.71,0.39
+Bottom 10%,RWA,Monthly,Emerg_Adms_Via_Type1,M4,0.92,0.05
+Bottom 10%,RWA,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.58,1.15
+Bottom 10%,RWA,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.51,0.21
+Bottom 10%,RWA,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.72,0.14
+Bottom 10%,RWD,Monthly,AandE_Attends_Type1,M1,1.54,0.33
+Bottom 10%,RWD,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.57,-0.23
+Bottom 10%,RWD,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,1.58,0.9
+Bottom 10%,RWD,Monthly,Emerg_Adms_Via_Type1,M4,1.07,0.59
+Bottom 10%,RWD,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.91,0.02
+Bottom 10%,RWD,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.86,0.43
+Bottom 10%,RWD,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.45,1.09
+Bet Bottom & Top,RWE,Monthly,AandE_Attends_Type1,M1,0.43,1.82
+Bet Bottom & Top,RWE,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.01,1.5
+Bet Bottom & Top,RWE,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0,1.86
+Bet Bottom & Top,RWE,Monthly,Emerg_Adms_Via_Type1,M4,1.54,1.34
+Bet Bottom & Top,RWE,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.75,2.82
+Bet Bottom & Top,RWE,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.31,1.09
+Bet Bottom & Top,RWE,Monthly,Dec_To_Adm_Over_12Hrs,M7,1.12,2.31
+Top 10%,RWF,Monthly,AandE_Attends_Type1,M1,1.07,1.43
+Top 10%,RWF,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.59,3.08
+Top 10%,RWF,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.15,-0.65
+Top 10%,RWF,Monthly,Emerg_Adms_Via_Type1,M4,2.29,1.73
+Top 10%,RWF,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.68,0.09
+Top 10%,RWF,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.08,-0.14
+Top 10%,RWF,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.45,-0.88
+Bottom 10%,RWG,Monthly,AandE_Attends_Type1,M1,1.25,-0.52
+Bottom 10%,RWG,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,2.18,-0.88
+Bottom 10%,RWG,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.27,-0.02
+Bottom 10%,RWG,Monthly,Emerg_Adms_Via_Type1,M4,2.36,0.12
+Bottom 10%,RWG,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.48,-0.59
+Bottom 10%,RWG,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.51,0.68
+Bottom 10%,RWG,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.3,-0.94
+Bottom 10%,RWH,Monthly,AandE_Attends_Type1,M1,0.47,-0.23
+Bottom 10%,RWH,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.15,-0.72
+Bottom 10%,RWH,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.67,0.36
+Bottom 10%,RWH,Monthly,Emerg_Adms_Via_Type1,M4,-0.05,-0.27
+Bottom 10%,RWH,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.41,-0.87
+Bottom 10%,RWH,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.2,-0.92
+Bottom 10%,RWH,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.32,-0.65
+Bet Bottom & Top,RWJ,Monthly,AandE_Attends_Type1,M1,0.27,-0.29
+Bet Bottom & Top,RWJ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.09,-0.21
+Bet Bottom & Top,RWJ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.29,-0.32
+Bet Bottom & Top,RWJ,Monthly,Emerg_Adms_Via_Type1,M4,0.28,-0.24
+Bet Bottom & Top,RWJ,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.9,-0.3
+Bet Bottom & Top,RWJ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.52,0.38
+Bet Bottom & Top,RWJ,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.13,-0.44
+Bet Bottom & Top,RWP,Monthly,AandE_Attends_Type1,M1,0.22,0.22
+Bet Bottom & Top,RWP,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.47,-0.15
+Bet Bottom & Top,RWP,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.77,0.59
+Bet Bottom & Top,RWP,Monthly,Emerg_Adms_Via_Type1,M4,-0.36,0.12
+Bet Bottom & Top,RWP,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.9,0.34
+Bet Bottom & Top,RWP,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.23,0.38
+Bet Bottom & Top,RWP,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.94,0.03
+Bet Bottom & Top,RWW,Monthly,AandE_Attends_Type1,M1,0.44,-0.67
+Bet Bottom & Top,RWW,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.06,-0.73
+Bet Bottom & Top,RWW,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.48,-0.49
+Bet Bottom & Top,RWW,Monthly,Emerg_Adms_Via_Type1,M4,0.47,-0.47
+Bet Bottom & Top,RWW,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.15,-1.03
+Bet Bottom & Top,RWW,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.87,-0.51
+Bet Bottom & Top,RWW,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.97,1.21
+Bet Bottom & Top,RWY,Monthly,AandE_Attends_Type1,M1,-0.07,0.67
+Bet Bottom & Top,RWY,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.8,1.11
+Bet Bottom & Top,RWY,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.79,0.07
+Bet Bottom & Top,RWY,Monthly,Emerg_Adms_Via_Type1,M4,0.14,-0.02
+Bet Bottom & Top,RWY,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.03,-0.24
+Bet Bottom & Top,RWY,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.56,0.76
+Bet Bottom & Top,RWY,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.23,-0.94
+Bet Bottom & Top,RXC,Monthly,AandE_Attends_Type1,M1,0.18,-0.22
+Bet Bottom & Top,RXC,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.48,-0.1
+Bet Bottom & Top,RXC,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.26,-0.32
+Bet Bottom & Top,RXC,Monthly,Emerg_Adms_Via_Type1,M4,-0.21,0.05
+Bet Bottom & Top,RXC,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.84,-0.6
+Bet Bottom & Top,RXC,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.65,-0.79
+Bet Bottom & Top,RXC,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.43,-0.94
+Bet Bottom & Top,RXK,Monthly,AandE_Attends_Type1,M1,-0.49,0.69
+Bet Bottom & Top,RXK,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,-0.7,0.53
+Bet Bottom & Top,RXK,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.04,0.74
+Bet Bottom & Top,RXK,Monthly,Emerg_Adms_Via_Type1,M4,-0.12,0
+Bet Bottom & Top,RXK,Monthly,Emerg_Adms_Not_Via_AandE,M5,-0.97,-0.77
+Bet Bottom & Top,RXK,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.26,1.27
+Bet Bottom & Top,RXK,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.36,-0.63
+Bet Bottom & Top,RXL,Monthly,AandE_Attends_Type1,M1,0.33,-0.46
+Bet Bottom & Top,RXL,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.36,-0.51
+Bet Bottom & Top,RXL,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.2,-0.31
+Bet Bottom & Top,RXL,Monthly,Emerg_Adms_Via_Type1,M4,1.05,-0.34
+Bet Bottom & Top,RXL,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.91,0.57
+Bet Bottom & Top,RXL,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.64,-0.58
+Bet Bottom & Top,RXL,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.95,2
+Bet Bottom & Top,RXN,Monthly,AandE_Attends_Type1,M1,0.89,0.21
+Bet Bottom & Top,RXN,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.83,0.56
+Bet Bottom & Top,RXN,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.97,-0.22
+Bet Bottom & Top,RXN,Monthly,Emerg_Adms_Via_Type1,M4,1.33,-0.1
+Bet Bottom & Top,RXN,Monthly,Emerg_Adms_Not_Via_AandE,M5,2.55,0.73
+Bet Bottom & Top,RXN,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.31,0.75
+Bet Bottom & Top,RXN,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.36,-0.54
+Bet Bottom & Top,RXP,Monthly,AandE_Attends_Type1,M1,1.24,0.34
+Bet Bottom & Top,RXP,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.65,-0.06
+Bet Bottom & Top,RXP,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.63,0.74
+Bet Bottom & Top,RXP,Monthly,Emerg_Adms_Via_Type1,M4,-0.63,0.63
+Bet Bottom & Top,RXP,Monthly,Emerg_Adms_Not_Via_AandE,M5,-1.32,-0.41
+Bet Bottom & Top,RXP,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.23,1.9
+Bet Bottom & Top,RXP,Monthly,Dec_To_Adm_Over_12Hrs,M7,-0.97,-0.94
+Bet Bottom & Top,RXQ,Monthly,AandE_Attends_Type1,M1,1.13,-0.19
+Bet Bottom & Top,RXQ,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.07,-0.15
+Bet Bottom & Top,RXQ,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,0.58,-0.2
+Bet Bottom & Top,RXQ,Monthly,Emerg_Adms_Via_Type1,M4,0.54,0.32
+Bet Bottom & Top,RXQ,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.5,-0.17
+Bet Bottom & Top,RXQ,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-1.19,-0.78
+Bet Bottom & Top,RXQ,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.96,0.01
+Bet Bottom & Top,RXR,Monthly,AandE_Attends_Type1,M1,0.72,-0.04
+Bet Bottom & Top,RXR,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,1.68,0.09
+Bet Bottom & Top,RXR,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.24,-0.18
+Bet Bottom & Top,RXR,Monthly,Emerg_Adms_Via_Type1,M4,0.97,0.69
+Bet Bottom & Top,RXR,Monthly,Emerg_Adms_Not_Via_AandE,M5,0.4,0.2
+Bet Bottom & Top,RXR,Monthly,Dec_To_Adm_4_to_12Hrs,M6,1.04,-0.04
+Bet Bottom & Top,RXR,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.19,0.96
+Bet Bottom & Top,RXW,Monthly,AandE_Attends_Type1,M1,-0.27,-0.16
+Bet Bottom & Top,RXW,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,0.08,-0.5
+Bet Bottom & Top,RXW,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.46,0.25
+Bet Bottom & Top,RXW,Monthly,Emerg_Adms_Via_Type1,M4,-1.28,-0.32
+Bet Bottom & Top,RXW,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.8,1.22
+Bet Bottom & Top,RXW,Monthly,Dec_To_Adm_4_to_12Hrs,M6,-0.98,-0.6
+Bet Bottom & Top,RXW,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.58,1.36
+Bet Bottom & Top,RYR,Monthly,AandE_Attends_Type1,M1,2.64,2.74
+Bet Bottom & Top,RYR,Monthly,Attends_Under_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M2,2.2,2.86
+Bet Bottom & Top,RYR,Monthly,Attends_Over_4Hrs_Arr_To_Adm_Tfr_Disch_Type1,M3,-0.03,2.14
+Bet Bottom & Top,RYR,Monthly,Emerg_Adms_Via_Type1,M4,2.9,2.92
+Bet Bottom & Top,RYR,Monthly,Emerg_Adms_Not_Via_AandE,M5,1.09,0.58
+Bet Bottom & Top,RYR,Monthly,Dec_To_Adm_4_to_12Hrs,M6,0.75,1.55
+Bet Bottom & Top,RYR,Monthly,Dec_To_Adm_Over_12Hrs,M7,0.08,1.74
+Bet Bottom & Top,R0A,Daily,Daily_Average_Staff_Absence,D1,-1.14,4.72
+Bet Bottom & Top,R0A,Daily,Arriving_by_ambulance,D2,1.21,2.19
+Bet Bottom & Top,R0A,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.71,-0.25
+Bet Bottom & Top,R0A,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.69,4.02
+Bet Bottom & Top,R0A,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.65,2.87
+Bet Bottom & Top,R0A,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.28,3.12
+Bet Bottom & Top,R0A,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.12,3.17
+Bet Bottom & Top,R0B,Daily,Daily_Average_Staff_Absence,D1,-1.26,0.34
+Bet Bottom & Top,R0B,Daily,Arriving_by_ambulance,D2,1.29,0.7
+Bet Bottom & Top,R0B,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.42,-0.39
+Bet Bottom & Top,R0B,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.71,0.42
+Bet Bottom & Top,R0B,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.95,0.47
+Bet Bottom & Top,R0B,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.12,0.49
+Bet Bottom & Top,R0B,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.18,0.49
+Bet Bottom & Top,R1H,Daily,Daily_Average_Staff_Absence,D1,-1.03,0.2
+Bet Bottom & Top,R1H,Daily,Arriving_by_ambulance,D2,0.52,1.86
+Bet Bottom & Top,R1H,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.83,0.16
+Bet Bottom & Top,R1H,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.63,0.56
+Bet Bottom & Top,R1H,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.64,1.96
+Bet Bottom & Top,R1H,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.37,1.83
+Bet Bottom & Top,R1H,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.08,1.64
+Bet Bottom & Top,R1K,Daily,Daily_Average_Staff_Absence,D1,-0.83,-0.4
+Bet Bottom & Top,R1K,Daily,Arriving_by_ambulance,D2,0.87,1.25
+Bet Bottom & Top,R1K,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-1.3,-0.01
+Bet Bottom & Top,R1K,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.15,-0.07
+Bet Bottom & Top,R1K,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.45,0.55
+Bet Bottom & Top,R1K,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.58,0.4
+Bet Bottom & Top,R1K,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.18,0.32
+Bet Bottom & Top,RA2,Daily,Daily_Average_Staff_Absence,D1,-0.82,-0.91
+Bet Bottom & Top,RA2,Daily,Arriving_by_ambulance,D2,0.84,-1.07
+Bet Bottom & Top,RA2,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.27,-0.66
+Bet Bottom & Top,RA2,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.26,-0.9
+Bet Bottom & Top,RA2,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.3,-0.59
+Bet Bottom & Top,RA2,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.39,-0.55
+Bet Bottom & Top,RA2,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.57,-0.51
+Bet Bottom & Top,RA7,Daily,Daily_Average_Staff_Absence,D1,-0.33,0.26
+Bet Bottom & Top,RA7,Daily,Arriving_by_ambulance,D2,1.06,0.66
+Bet Bottom & Top,RA7,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.88,0.97
+Bet Bottom & Top,RA7,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.46,0.46
+Bet Bottom & Top,RA7,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.02,-0.11
+Bet Bottom & Top,RA7,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.43,-0.17
+Bet Bottom & Top,RA7,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.62,-0.26
+Bottom 10%,RA9,Daily,Daily_Average_Staff_Absence,D1,-0.66,-0.04
+Bottom 10%,RA9,Daily,Arriving_by_ambulance,D2,0.7,-0.66
+Bottom 10%,RA9,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.4,1.29
+Bottom 10%,RA9,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.07,-1.02
+Bottom 10%,RA9,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.61,-1.05
+Bottom 10%,RA9,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.87,-1.15
+Bottom 10%,RA9,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.9,-1.17
+Bet Bottom & Top,RAE,Daily,Daily_Average_Staff_Absence,D1,-0.58,0.01
+Bet Bottom & Top,RAE,Daily,Arriving_by_ambulance,D2,0.91,0.28
+Bet Bottom & Top,RAE,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.66,-0.6
+Bet Bottom & Top,RAE,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.52,-1.11
+Bet Bottom & Top,RAE,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.31,-0.55
+Bet Bottom & Top,RAE,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.03,-0.53
+Bet Bottom & Top,RAE,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.05,-0.52
+Bet Bottom & Top,RAJ,Daily,Daily_Average_Staff_Absence,D1,-0.96,0.51
+Bet Bottom & Top,RAJ,Daily,Arriving_by_ambulance,D2,0.96,2.73
+Bet Bottom & Top,RAJ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.88,0.87
+Bet Bottom & Top,RAJ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.82,-0.11
+Bet Bottom & Top,RAJ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.07,1.91
+Bet Bottom & Top,RAJ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.08,1.6
+Bet Bottom & Top,RAJ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.33,1.34
+Bet Bottom & Top,RAL,Daily,Daily_Average_Staff_Absence,D1,-0.9,0.29
+Bet Bottom & Top,RAL,Daily,Arriving_by_ambulance,D2,1.14,0.56
+Bet Bottom & Top,RAL,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.64,-0.15
+Bet Bottom & Top,RAL,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.59,0.31
+Bet Bottom & Top,RAL,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.8,0.69
+Bet Bottom & Top,RAL,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.48,0.61
+Bet Bottom & Top,RAL,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.04,0.58
+Bet Bottom & Top,RAP,Daily,Daily_Average_Staff_Absence,D1,-0.83,-0.91
+Bet Bottom & Top,RAP,Daily,Arriving_by_ambulance,D2,1.13,-0.36
+Bet Bottom & Top,RAP,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.79,0.12
+Bet Bottom & Top,RAP,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.54,-0.77
+Bet Bottom & Top,RAP,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.13,-0.35
+Bet Bottom & Top,RAP,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.17,-0.23
+Bet Bottom & Top,RAP,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.35,-0.06
+Bottom 10%,RAS,Daily,Daily_Average_Staff_Absence,D1,-1.62,-1.12
+Bottom 10%,RAS,Daily,Arriving_by_ambulance,D2,1.14,-0.62
+Bottom 10%,RAS,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-1.03,-0.64
+Bottom 10%,RAS,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.65,-0.9
+Bottom 10%,RAS,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0,-1.06
+Bottom 10%,RAS,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.31,-1.03
+Bottom 10%,RAS,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.58,-0.99
+Bet Bottom & Top,RAX,Daily,Daily_Average_Staff_Absence,D1,-0.29,-0.99
+Bet Bottom & Top,RAX,Daily,Arriving_by_ambulance,D2,1.17,-0.64
+Bet Bottom & Top,RAX,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.44,-0.53
+Bet Bottom & Top,RAX,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.28,-0.68
+Bet Bottom & Top,RAX,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.1,-0.85
+Bet Bottom & Top,RAX,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.99,-0.82
+Bet Bottom & Top,RAX,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.1,-0.79
+Bet Bottom & Top,RBD,Daily,Daily_Average_Staff_Absence,D1,-0.94,-1.06
+Bet Bottom & Top,RBD,Daily,Arriving_by_ambulance,D2,1.41,-1.07
+Bet Bottom & Top,RBD,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.9,-0.55
+Bet Bottom & Top,RBD,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.49,-0.2
+Bet Bottom & Top,RBD,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.54,-1
+Bet Bottom & Top,RBD,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.55,-0.89
+Bet Bottom & Top,RBD,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.64,-0.77
+Bet Bottom & Top,RBK,Daily,Daily_Average_Staff_Absence,D1,-1.04,-0.42
+Bet Bottom & Top,RBK,Daily,Arriving_by_ambulance,D2,-1.52,-0.29
+Bet Bottom & Top,RBK,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.48,-0.61
+Bet Bottom & Top,RBK,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.24,-0.41
+Bet Bottom & Top,RBK,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.61,-0.7
+Bet Bottom & Top,RBK,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.17,-0.77
+Bet Bottom & Top,RBK,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.42,-0.79
+Bet Bottom & Top,RBL,Daily,Daily_Average_Staff_Absence,D1,-0.92,0.07
+Bet Bottom & Top,RBL,Daily,Arriving_by_ambulance,D2,-0.33,-1.04
+Bet Bottom & Top,RBL,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,1.54,-0.13
+Bet Bottom & Top,RBL,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.2,2.22
+Bet Bottom & Top,RBL,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.66,0.28
+Bet Bottom & Top,RBL,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.78,0.61
+Bet Bottom & Top,RBL,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.09,0.89
+Bet Bottom & Top,RBN,Daily,Daily_Average_Staff_Absence,D1,-0.62,0.07
+Bet Bottom & Top,RBN,Daily,Arriving_by_ambulance,D2,1.67,-0.52
+Bet Bottom & Top,RBN,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.71,-0.55
+Bet Bottom & Top,RBN,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.9,0.08
+Bet Bottom & Top,RBN,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.54,-0.2
+Bet Bottom & Top,RBN,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.07,-0.23
+Bet Bottom & Top,RBN,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.21,-0.28
+Bet Bottom & Top,RBT,Daily,Daily_Average_Staff_Absence,D1,-1.51,-0.55
+Bet Bottom & Top,RBT,Daily,Arriving_by_ambulance,D2,0.96,-0.88
+Bet Bottom & Top,RBT,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.17,-0.65
+Bet Bottom & Top,RBT,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.35,-0.24
+Bet Bottom & Top,RBT,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.04,-0.54
+Bet Bottom & Top,RBT,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.19,-0.48
+Bet Bottom & Top,RBT,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.32,-0.44
+Bet Bottom & Top,RCB,Daily,Daily_Average_Staff_Absence,D1,1,1.62
+Bet Bottom & Top,RCB,Daily,Arriving_by_ambulance,D2,0.89,0.78
+Bet Bottom & Top,RCB,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.35,1.18
+Bet Bottom & Top,RCB,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.15,0.35
+Bet Bottom & Top,RCB,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.34,0.08
+Bet Bottom & Top,RCB,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.52,0.03
+Bet Bottom & Top,RCB,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.84,-0.06
+Top 10%,RCD,Daily,Daily_Average_Staff_Absence,D1,-1.17,-0.66
+Top 10%,RCD,Daily,Arriving_by_ambulance,D2,1.34,-1.35
+Top 10%,RCD,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.86,-0.66
+Top 10%,RCD,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.17,-1.19
+Top 10%,RCD,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.3,-1.14
+Top 10%,RCD,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.57,-1.05
+Top 10%,RCD,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.4,-0.96
+Bet Bottom & Top,RCF,Daily,Daily_Average_Staff_Absence,D1,-0.26,-0.68
+Bet Bottom & Top,RCF,Daily,Arriving_by_ambulance,D2,0.51,-1.16
+Bet Bottom & Top,RCF,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.49,-0.69
+Bet Bottom & Top,RCF,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.8,-0.39
+Bet Bottom & Top,RCF,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0,-1.01
+Bet Bottom & Top,RCF,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.38,-0.93
+Bet Bottom & Top,RCF,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.64,-0.87
+Bet Bottom & Top,RCX,Daily,Daily_Average_Staff_Absence,D1,0.14,-0.59
+Bet Bottom & Top,RCX,Daily,Arriving_by_ambulance,D2,0.68,-0.97
+Bet Bottom & Top,RCX,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.31,0.78
+Bet Bottom & Top,RCX,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.19,0.63
+Bet Bottom & Top,RCX,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.33,-0.42
+Bet Bottom & Top,RCX,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.1,-0.31
+Bet Bottom & Top,RCX,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.03,-0.21
+Bet Bottom & Top,RD1,Daily,Daily_Average_Staff_Absence,D1,0.52,-0.66
+Bet Bottom & Top,RD1,Daily,Arriving_by_ambulance,D2,1.01,-0.45
+Bet Bottom & Top,RD1,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.02,1.76
+Bet Bottom & Top,RD1,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.93,-0.18
+Bet Bottom & Top,RD1,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.68,-0.45
+Bet Bottom & Top,RD1,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.07,-0.5
+Bet Bottom & Top,RD1,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1,-0.57
+Bet Bottom & Top,RN3,Daily,Daily_Average_Staff_Absence,D1,-0.5,-0.53
+Bet Bottom & Top,RD8,Daily,Daily_Average_Staff_Absence,D1,-0.46,-0.85
+Bet Bottom & Top,RN3,Daily,Arriving_by_ambulance,D2,1.16,-0.78
+Bet Bottom & Top,RD8,Daily,Arriving_by_ambulance,D2,0.68,-0.78
+Bet Bottom & Top,RN3,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.87,0.62
+Bet Bottom & Top,RD8,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.84,-0.64
+Bet Bottom & Top,RN3,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.11,-0.24
+Bet Bottom & Top,RD8,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.8,-0.13
+Bet Bottom & Top,RN3,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.57,-0.65
+Bet Bottom & Top,RD8,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.63,-0.53
+Bet Bottom & Top,RN3,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.28,-0.73
+Bet Bottom & Top,RD8,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.62,-0.37
+Bet Bottom & Top,RN3,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.05,-0.76
+Bet Bottom & Top,RD8,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.71,-0.25
+Bet Bottom & Top,RDE,Daily,Daily_Average_Staff_Absence,D1,-0.78,0.83
+Bet Bottom & Top,RDE,Daily,Arriving_by_ambulance,D2,0.7,1.25
+Bet Bottom & Top,RDE,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,1.44,2.87
+Bet Bottom & Top,RDE,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.15,-0.43
+Bet Bottom & Top,RDE,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.02,0.55
+Bet Bottom & Top,RDE,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.19,0.25
+Bet Bottom & Top,RDE,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.31,0.02
+Bet Bottom & Top,RNZ,Daily,Daily_Average_Staff_Absence,D1,-0.08,-0.89
+Bottom 10%,REF,Daily,Daily_Average_Staff_Absence,D1,-0.34,-0.37
+Bet Bottom & Top,RNZ,Daily,Arriving_by_ambulance,D2,1.26,-1.35
+Bottom 10%,REF,Daily,Arriving_by_ambulance,D2,0.63,-0.29
+Bet Bottom & Top,RNZ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.73,-0.4
+Bottom 10%,REF,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.77,5.82
+Bet Bottom & Top,RNZ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.22,0.08
+Bottom 10%,REF,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.72,0.56
+Bet Bottom & Top,RNZ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.28,-0.71
+Bottom 10%,REF,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.31,-0.24
+Bet Bottom & Top,RNZ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.06,-0.57
+Bottom 10%,REF,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.37,-0.15
+Bet Bottom & Top,RNZ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.15,-0.46
+Bottom 10%,REF,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.37,-0.03
+Bet Bottom & Top,RRK,Daily,Daily_Average_Staff_Absence,D1,-0.77,3.21
+Bet Bottom & Top,REM,Daily,Daily_Average_Staff_Absence,D1,-1.03,0.02
+Bet Bottom & Top,RRK,Daily,Arriving_by_ambulance,D2,-1.15,3.28
+Bet Bottom & Top,REM,Daily,Arriving_by_ambulance,D2,0.83,0.89
+Bet Bottom & Top,RRK,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.51,1.6
+Bet Bottom & Top,REM,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.2,0.41
+Bet Bottom & Top,RRK,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.99,-0.6
+Bet Bottom & Top,REM,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.28,3.81
+Bet Bottom & Top,RRK,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.15,3.89
+Bet Bottom & Top,REM,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.31,2.62
+Bet Bottom & Top,RRK,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.96,3.35
+Bet Bottom & Top,REM,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.03,3.09
+Bet Bottom & Top,RRK,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.09,2.82
+Bet Bottom & Top,REM,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.22,3.43
+Bottom 10%,RF4,Daily,Daily_Average_Staff_Absence,D1,-0.85,-0.53
+Bottom 10%,RF4,Daily,Arriving_by_ambulance,D2,1.33,0.82
+Bottom 10%,RF4,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.37,0.91
+Bottom 10%,RF4,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.7,0.31
+Bottom 10%,RF4,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.19,0.37
+Bottom 10%,RF4,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.74,0.41
+Bottom 10%,RF4,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.89,0.39
+Bet Bottom & Top,RTH,Daily,Daily_Average_Staff_Absence,D1,-0.83,1.36
+Bet Bottom & Top,RFF,Daily,Daily_Average_Staff_Absence,D1,0,-0.55
+Bet Bottom & Top,RTH,Daily,Arriving_by_ambulance,D2,-0.08,0.99
+Bet Bottom & Top,RFF,Daily,Arriving_by_ambulance,D2,1.73,-0.57
+Bet Bottom & Top,RTH,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.34,-0.59
+Bet Bottom & Top,RFF,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.78,-0.53
+Bet Bottom & Top,RTH,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.53,-0.24
+Bet Bottom & Top,RFF,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.65,-1.09
+Bet Bottom & Top,RTH,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.13,0.37
+Bet Bottom & Top,RFF,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.47,-1.09
+Bet Bottom & Top,RTH,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.89,0.15
+Bet Bottom & Top,RFF,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.23,-1.18
+Bet Bottom & Top,RTH,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.05,-0.03
+Bet Bottom & Top,RFF,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.23,-1.18
+Bet Bottom & Top,RHW,Daily,Daily_Average_Staff_Absence,D1,-1.35,-0.76
+Bottom 10%,RFS,Daily,Daily_Average_Staff_Absence,D1,-0.41,-0.27
+Bet Bottom & Top,RHW,Daily,Arriving_by_ambulance,D2,-1.18,0.11
+Bottom 10%,RFS,Daily,Arriving_by_ambulance,D2,1.09,-0.57
+Bet Bottom & Top,RHW,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.7,-0.52
+Bottom 10%,RFS,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.35,-0.68
+Bet Bottom & Top,RHW,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1,-0.56
+Bottom 10%,RFS,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.53,-0.13
+Bet Bottom & Top,RHW,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.52,-0.58
+Bottom 10%,RFS,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.28,-0.77
+Bet Bottom & Top,RHW,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.92,-0.56
+Bottom 10%,RFS,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.5,-0.66
+Bet Bottom & Top,RHW,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.35,-0.54
+Bottom 10%,RFS,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.39,-0.8
+Bet Bottom & Top,RGN,Daily,Daily_Average_Staff_Absence,D1,-1.16,-0.38
+Bet Bottom & Top,RGN,Daily,Arriving_by_ambulance,D2,0.83,0.59
+Bet Bottom & Top,RGN,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.61,0.37
+Bet Bottom & Top,RGN,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.79,-0.26
+Bet Bottom & Top,RGN,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.38,0.26
+Bet Bottom & Top,RGN,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.34,0.18
+Bet Bottom & Top,RGN,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1,0.13
+Bet Bottom & Top,RJR,Daily,Daily_Average_Staff_Absence,D1,-1.48,-0.75
+Bet Bottom & Top,RGP,Daily,Daily_Average_Staff_Absence,D1,1.5,-0.63
+Bet Bottom & Top,RJR,Daily,Arriving_by_ambulance,D2,1.41,-1.3
+Bet Bottom & Top,RGP,Daily,Arriving_by_ambulance,D2,1.17,-0.81
+Bet Bottom & Top,RJR,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.38,-0.18
+Bet Bottom & Top,RGP,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.28,0.96
+Bet Bottom & Top,RJR,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.66,0.04
+Bet Bottom & Top,RGP,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.8,-0.09
+Bet Bottom & Top,RJR,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.33,-0.67
+Bet Bottom & Top,RGP,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.46,-0.69
+Bet Bottom & Top,RJR,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.95,-0.55
+Bet Bottom & Top,RGP,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.37,-0.65
+Bet Bottom & Top,RJR,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.8,-0.5
+Bet Bottom & Top,RGP,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.13,-0.63
+Bet Bottom & Top,RJN,Daily,Daily_Average_Staff_Absence,D1,-0.91,-0.9
+Bet Bottom & Top,RH5,Daily,Daily_Average_Staff_Absence,D1,-1.04,0.14
+Bet Bottom & Top,RJN,Daily,Arriving_by_ambulance,D2,0.58,-1.54
+Bet Bottom & Top,RH5,Daily,Arriving_by_ambulance,D2,1.52,-0.36
+Bet Bottom & Top,RJN,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.93,-0.7
+Bet Bottom & Top,RH5,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.98,-0.43
+Bet Bottom & Top,RJN,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.3,-0.73
+Bet Bottom & Top,RH5,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.68,-0.22
+Bet Bottom & Top,RJN,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.16,-1.1
+Bet Bottom & Top,RH5,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.95,-0.5
+Bet Bottom & Top,RJN,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.04,-0.99
+Bet Bottom & Top,RH5,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.06,-0.57
+Bet Bottom & Top,RJN,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.99,-0.9
+Bet Bottom & Top,RH5,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.12,-0.61
+Bet Bottom & Top,RH8,Daily,Daily_Average_Staff_Absence,D1,-0.9,0.7
+Bet Bottom & Top,RH8,Daily,Arriving_by_ambulance,D2,0.93,0.94
+Bet Bottom & Top,RH8,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.68,1.62
+Bet Bottom & Top,RH8,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.92,-0.16
+Bet Bottom & Top,RH8,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.88,0.57
+Bet Bottom & Top,RH8,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.43,0.35
+Bet Bottom & Top,RH8,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.15,0.16
+Bet Bottom & Top,RHM,Daily,Daily_Average_Staff_Absence,D1,-0.45,0.3
+Bet Bottom & Top,RHM,Daily,Arriving_by_ambulance,D2,0.33,0.82
+Bet Bottom & Top,RHM,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.59,-0.67
+Bet Bottom & Top,RHM,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.96,0.71
+Bet Bottom & Top,RHM,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.47,0.81
+Bet Bottom & Top,RHM,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.48,0.8
+Bet Bottom & Top,RHM,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.06,0.57
+Bet Bottom & Top,RLT,Daily,Daily_Average_Staff_Absence,D1,-1.1,-1
+Bet Bottom & Top,RHQ,Daily,Daily_Average_Staff_Absence,D1,-0.99,2.94
+Bet Bottom & Top,RLT,Daily,Arriving_by_ambulance,D2,-1.52,-1.18
+Bet Bottom & Top,RHQ,Daily,Arriving_by_ambulance,D2,0.99,0.44
+Bet Bottom & Top,RLT,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.99,-0.59
+Bet Bottom & Top,RHQ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.54,0.02
+Bet Bottom & Top,RLT,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.82,-0.81
+Bet Bottom & Top,RHQ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.16,1.45
+Bet Bottom & Top,RLT,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.53,-0.89
+Bet Bottom & Top,RHQ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.52,1.96
+Bet Bottom & Top,RLT,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.51,-0.9
+Bet Bottom & Top,RHQ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.37,1.96
+Bet Bottom & Top,RLT,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.79,-0.9
+Bet Bottom & Top,RHQ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.32,1.72
+Bet Bottom & Top,RJC,Daily,Daily_Average_Staff_Absence,D1,-1.43,-0.79
+Bet Bottom & Top,RJC,Daily,Arriving_by_ambulance,D2,-1.31,-1.16
+Bet Bottom & Top,RJC,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.82,-0.64
+Bet Bottom & Top,RJC,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.58,-0.94
+Bet Bottom & Top,RJC,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.74,-1.16
+Bet Bottom & Top,RJC,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.28,-1.19
+Bet Bottom & Top,RJC,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.2,-1.17
+Bet Bottom & Top,RKB,Daily,Daily_Average_Staff_Absence,D1,-0.76,0.58
+Bet Bottom & Top,RJ1,Daily,Daily_Average_Staff_Absence,D1,-0.43,1.15
+Bet Bottom & Top,RKB,Daily,Arriving_by_ambulance,D2,-1.65,0.02
+Bet Bottom & Top,RJ1,Daily,Arriving_by_ambulance,D2,1.42,-0.19
+Bet Bottom & Top,RKB,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-1.03,-0.25
+Bet Bottom & Top,RJ1,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,1.29,-0.52
+Bet Bottom & Top,RKB,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.17,0.69
+Bet Bottom & Top,RJ1,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0,-0.37
+Bet Bottom & Top,RKB,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.1,0.52
+Bet Bottom & Top,RJ1,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.43,0.55
+Bet Bottom & Top,RKB,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.21,0.58
+Bet Bottom & Top,RJ1,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.11,0.61
+Bet Bottom & Top,RKB,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.04,0.57
+Bet Bottom & Top,RJ1,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.97,0.74
+Bet Bottom & Top,RR7,Daily,Daily_Average_Staff_Absence,D1,-0.84,-0.61
+Bet Bottom & Top,RJ2,Daily,Daily_Average_Staff_Absence,D1,-0.4,-0.48
+Bet Bottom & Top,RR7,Daily,Arriving_by_ambulance,D2,0.87,-1
+Bet Bottom & Top,RJ2,Daily,Arriving_by_ambulance,D2,1.32,1.29
+Bet Bottom & Top,RR7,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.9,-0.61
+Bet Bottom & Top,RJ2,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.41,0.06
+Bet Bottom & Top,RR7,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.17,-0.64
+Bet Bottom & Top,RJ2,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.07,0.65
+Bet Bottom & Top,RR7,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.55,-0.74
+Bet Bottom & Top,RJ2,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.56,0.71
+Bet Bottom & Top,RR7,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.59,-0.68
+Bet Bottom & Top,RJ2,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.56,0.78
+Bet Bottom & Top,RR7,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.57,-0.64
+Bet Bottom & Top,RJ2,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.03,0.83
+Bet Bottom & Top,RNN,Daily,Daily_Average_Staff_Absence,D1,-1.2,-0.36
+Bet Bottom & Top,RJ6,Daily,Daily_Average_Staff_Absence,D1,-0.83,-0.89
+Bet Bottom & Top,RNN,Daily,Arriving_by_ambulance,D2,0.73,-0.41
+Bet Bottom & Top,RJ6,Daily,Arriving_by_ambulance,D2,0.75,-0.31
+Bet Bottom & Top,RNN,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.52,-0.5
+Bet Bottom & Top,RJ6,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-1.08,-0.53
+Bet Bottom & Top,RNN,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.18,0.16
+Bet Bottom & Top,RJ6,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.82,-0.88
+Bet Bottom & Top,RNN,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.68,-0.4
+Bet Bottom & Top,RJ6,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.38,-0.59
+Bet Bottom & Top,RNN,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.65,-0.35
+Bet Bottom & Top,RJ6,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.21,-0.43
+Bet Bottom & Top,RNN,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.12,-0.29
+Bet Bottom & Top,RJ6,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.72,-0.31
+Top 10%,RTF,Daily,Daily_Average_Staff_Absence,D1,-1.16,0.05
+Top 10%,RJ7,Daily,Daily_Average_Staff_Absence,D1,-0.67,-0.2
+Top 10%,RTF,Daily,Arriving_by_ambulance,D2,0.58,-0.24
+Top 10%,RJ7,Daily,Arriving_by_ambulance,D2,0.7,-0.52
+Top 10%,RTF,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.49,-0.58
+Top 10%,RJ7,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.84,-0.42
+Top 10%,RTF,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.36,-0.62
+Top 10%,RJ7,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.26,0.08
+Top 10%,RTF,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.51,0.01
+Top 10%,RJ7,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.08,0
+Top 10%,RTF,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.21,0.12
+Top 10%,RJ7,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.07,0.05
+Top 10%,RTF,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.89,0.16
+Top 10%,RJ7,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.89,0.1
+Bet Bottom & Top,RTD,Daily,Daily_Average_Staff_Absence,D1,-0.84,1.71
+Bet Bottom & Top,RTD,Daily,Arriving_by_ambulance,D2,0.81,0.09
+Bet Bottom & Top,RTD,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.36,-0.67
+Bet Bottom & Top,RTD,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.53,-0.01
+Bet Bottom & Top,RTD,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.12,1.39
+Bet Bottom & Top,RTD,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.84,1.04
+Bet Bottom & Top,RTD,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.94,1.57
+Bet Bottom & Top,RJE,Daily,Daily_Average_Staff_Absence,D1,-0.69,1.1
+Bet Bottom & Top,RJE,Daily,Arriving_by_ambulance,D2,-0.27,0.3
+Bet Bottom & Top,RJE,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.68,0.75
+Bet Bottom & Top,RJE,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.45,-0.2
+Bet Bottom & Top,RJE,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.1,0.87
+Bet Bottom & Top,RJE,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.34,0.51
+Bet Bottom & Top,RJE,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.48,0.23
+Bet Bottom & Top,RJL,Daily,Daily_Average_Staff_Absence,D1,-1.08,-0.42
+Bet Bottom & Top,RJL,Daily,Arriving_by_ambulance,D2,0.87,0.02
+Bet Bottom & Top,RJL,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.68,0.91
+Bet Bottom & Top,RJL,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.29,-0.58
+Bet Bottom & Top,RJL,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.24,-0.74
+Bet Bottom & Top,RJL,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.73,-0.82
+Top 10%,RQX,Daily,Daily_Average_Staff_Absence,D1,-0.59,-0.92
+Top 10%,RQX,Daily,Arriving_by_ambulance,D2,-1.51,-1.21
+Top 10%,RQX,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-1.06,-0.69
+Top 10%,RQX,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.47,-1.04
+Top 10%,RQX,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.21,-1.38
+Top 10%,RQX,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.58,-1.31
+Top 10%,RQX,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.47,-1.24
+Bet Bottom & Top,RTE,Daily,Daily_Average_Staff_Absence,D1,-0.88,-0.36
+Bet Bottom & Top,RTE,Daily,Arriving_by_ambulance,D2,1.1,0.44
+Bet Bottom & Top,RTE,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.56,1.55
+Bet Bottom & Top,RTE,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.32,1.14
+Bet Bottom & Top,RTE,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.21,0.26
+Bet Bottom & Top,RTE,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.42,0.3
+Bet Bottom & Top,RTE,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.39,0.41
+Bet Bottom & Top,RMC,Daily,Daily_Average_Staff_Absence,D1,-0.9,-0.37
+Bet Bottom & Top,RJZ,Daily,Daily_Average_Staff_Absence,D1,-0.77,0.13
+Bet Bottom & Top,RMC,Daily,Arriving_by_ambulance,D2,0.98,-0.66
+Bet Bottom & Top,RJZ,Daily,Arriving_by_ambulance,D2,0.85,1.25
+Bet Bottom & Top,RMC,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.75,-0.51
+Bet Bottom & Top,RJZ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.59,-0.06
+Bet Bottom & Top,RMC,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.36,-0.24
+Bet Bottom & Top,RJZ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.82,1.33
+Bet Bottom & Top,RMC,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.84,-0.46
+Bet Bottom & Top,RJZ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.21,1.3
+Bet Bottom & Top,RMC,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.52,-0.35
+Bet Bottom & Top,RJZ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.08,1.41
+Bet Bottom & Top,RMC,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.68,-0.3
+Bet Bottom & Top,RJZ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.19,1.52
+Bet Bottom & Top,RK5,Daily,Daily_Average_Staff_Absence,D1,-1.02,-0.49
+Bet Bottom & Top,RK5,Daily,Arriving_by_ambulance,D2,1.6,0.09
+Bet Bottom & Top,RK5,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.6,-0.67
+Bet Bottom & Top,RK5,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.73,-0.3
+Bet Bottom & Top,RK5,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.17,-0.35
+Bet Bottom & Top,RK5,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.11,-0.4
+Bet Bottom & Top,RK5,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.28,-0.43
+Bet Bottom & Top,RM3,Daily,Daily_Average_Staff_Absence,D1,-1.23,1.9
+Bet Bottom & Top,RM3,Daily,Arriving_by_ambulance,D2,1.4,2.29
+Bet Bottom & Top,RM3,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.26,0.04
+Bet Bottom & Top,RM3,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.05,1.5
+Bet Bottom & Top,RM3,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.77,1.61
+Bet Bottom & Top,RM3,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.85,1.74
+Bet Bottom & Top,RM3,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.53,1.81
+Bet Bottom & Top,RMP,Daily,Daily_Average_Staff_Absence,D1,-1.01,-0.68
+Bet Bottom & Top,RKE,Daily,Daily_Average_Staff_Absence,D1,-0.94,-0.83
+Bet Bottom & Top,RMP,Daily,Arriving_by_ambulance,D2,1.39,-0.83
+Bet Bottom & Top,RKE,Daily,Arriving_by_ambulance,D2,0.94,-1.07
+Bet Bottom & Top,RMP,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.66,-0.61
+Bet Bottom & Top,RKE,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.45,-0.56
+Bet Bottom & Top,RMP,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.45,-0.66
+Bet Bottom & Top,RKE,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.17,-0.88
+Bet Bottom & Top,RMP,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.15,-0.88
+Bet Bottom & Top,RKE,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.1,-1.25
+Bet Bottom & Top,RMP,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0,-0.83
+Bet Bottom & Top,RKE,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.32,-1.13
+Bet Bottom & Top,RMP,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.09,-0.77
+Bet Bottom & Top,RKE,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.54,-1.01
+Bet Bottom & Top,RRF,Daily,Daily_Average_Staff_Absence,D1,-1.12,-0.06
+Bet Bottom & Top,RL4,Daily,Daily_Average_Staff_Absence,D1,-1.07,-0.01
+Bet Bottom & Top,RRF,Daily,Arriving_by_ambulance,D2,1.63,-0.78
+Bet Bottom & Top,RL4,Daily,Arriving_by_ambulance,D2,-0.72,0.16
+Bet Bottom & Top,RRF,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.84,-0.43
+Bet Bottom & Top,RL4,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.69,-0.44
+Bet Bottom & Top,RRF,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.69,-0.07
+Bet Bottom & Top,RL4,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.78,-0.9
+Bet Bottom & Top,RRF,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.52,-0.86
+Bet Bottom & Top,RL4,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.34,-0.24
+Bet Bottom & Top,RRF,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.7,-0.79
+Bet Bottom & Top,RL4,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.44,-0.45
+Bet Bottom & Top,RRF,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.71,-0.73
+Bet Bottom & Top,RL4,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.61,-0.58
+Bet Bottom & Top,RN5,Daily,Daily_Average_Staff_Absence,D1,-0.67,0.06
+Bet Bottom & Top,RLQ,Daily,Daily_Average_Staff_Absence,D1,-0.06,-0.68
+Bet Bottom & Top,RN5,Daily,Arriving_by_ambulance,D2,1.26,0.09
+Bet Bottom & Top,RLQ,Daily,Arriving_by_ambulance,D2,-0.51,-1.11
+Bet Bottom & Top,RN5,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.5,-0.55
+Bet Bottom & Top,RLQ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.82,-0.61
+Bet Bottom & Top,RN5,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.58,0.25
+Bet Bottom & Top,RLQ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.14,-0.96
+Bet Bottom & Top,RN5,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.39,0.03
+Bet Bottom & Top,RLQ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.93,-1.21
+Bet Bottom & Top,RN5,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.53,0
+Bet Bottom & Top,RLQ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.05,-1.15
+Bet Bottom & Top,RN5,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.38,-0.09
+Bet Bottom & Top,RLQ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.5,-1.06
+Bet Bottom & Top,RM1,Daily,Daily_Average_Staff_Absence,D1,-1.14,-0.02
+Bet Bottom & Top,RM1,Daily,Arriving_by_ambulance,D2,1.5,0.04
+Bet Bottom & Top,RM1,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,1.22,4.16
+Bet Bottom & Top,RM1,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.49,0.8
+Bet Bottom & Top,RM1,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.03,0.33
+Bet Bottom & Top,RM1,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.13,0.29
+Bet Bottom & Top,RM1,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.13,0.27
+Bet Bottom & Top,RQW,Daily,Daily_Average_Staff_Absence,D1,-0.94,-0.95
+Bet Bottom & Top,RQW,Daily,Arriving_by_ambulance,D2,0.8,-1.14
+Bet Bottom & Top,RQW,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,1.53,0.59
+Bet Bottom & Top,RQW,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.17,-0.79
+Bet Bottom & Top,RQW,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.74,-1.02
+Bet Bottom & Top,RQW,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.65,-1.01
+Bet Bottom & Top,RQW,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.48,-1.04
+Bottom 10%,RTG,Daily,Daily_Average_Staff_Absence,D1,-0.24,1.55
+Bottom 10%,RTG,Daily,Arriving_by_ambulance,D2,1.05,1.39
+Bottom 10%,RTG,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.4,0.39
+Bottom 10%,RTG,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.38,0.04
+Bottom 10%,RTG,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.29,0.77
+Bottom 10%,RTG,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.23,0.46
+Bottom 10%,RTG,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.03,0.28
+Top 10%,RN7,Daily,Daily_Average_Staff_Absence,D1,-0.66,-0.96
+Top 10%,RN7,Daily,Arriving_by_ambulance,D2,-0.22,-0.62
+Top 10%,RN7,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-1,-0.68
+Top 10%,RN7,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.55,-0.92
+Top 10%,RN7,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.13,-0.53
+Top 10%,RN7,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.09,-0.57
+Top 10%,RN7,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.26,-0.58
+Bet Bottom & Top,RPA,Daily,Daily_Average_Staff_Absence,D1,0.2,-0.91
+Bet Bottom & Top,RPA,Daily,Arriving_by_ambulance,D2,-0.58,0.04
+Bet Bottom & Top,RNA,Daily,Daily_Average_Staff_Absence,D1,-0.15,-0.32
+Bet Bottom & Top,RPA,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.74,-0.69
+Bet Bottom & Top,RNA,Daily,Arriving_by_ambulance,D2,-1.51,-0.1
+Bet Bottom & Top,RPA,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.85,-0.71
+Bet Bottom & Top,RNA,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.7,-0.31
+Bet Bottom & Top,RPA,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.07,-0.56
+Bet Bottom & Top,RNA,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.73,-0.75
+Bet Bottom & Top,RPA,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.02,-0.6
+Bet Bottom & Top,RNA,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.82,-0.54
+Bet Bottom & Top,RPA,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.33,-0.62
+Bet Bottom & Top,RNA,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.21,-0.63
+Bet Bottom & Top,RNA,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.7,-0.72
+Bet Bottom & Top,RNS,Daily,Daily_Average_Staff_Absence,D1,-0.26,-0.53
+Bet Bottom & Top,RNS,Daily,Arriving_by_ambulance,D2,1.21,-0.19
+Bet Bottom & Top,RNS,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.6,-0.25
+Bet Bottom & Top,RNS,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.84,0.33
+Bet Bottom & Top,RNS,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.43,-0.06
+Bet Bottom & Top,RNS,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.98,-0.01
+Bet Bottom & Top,RRV,Daily,Arriving_by_ambulance,D2,0.98,-1
+Bet Bottom & Top,RNS,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.05,-0.03
+Bet Bottom & Top,RRV,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.58,-0.63
+Bet Bottom & Top,RRV,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.26,-0.73
+Bet Bottom & Top,RRV,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.93,-0.3
+Bet Bottom & Top,RRV,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.44,-0.2
+Bet Bottom & Top,RRV,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.03,-0.15
+Bet Bottom & Top,RP5,Daily,Daily_Average_Staff_Absence,D1,-1.02,0.23
+Bet Bottom & Top,RP5,Daily,Arriving_by_ambulance,D2,1.22,0.47
+Bet Bottom & Top,RP5,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.73,-0.29
+Bet Bottom & Top,RP5,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.65,-0.16
+Bet Bottom & Top,RP5,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.18,-0.22
+Bet Bottom & Top,RP5,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.11,-0.26
+Bet Bottom & Top,RP5,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.72,-0.31
+Bet Bottom & Top,RR8,Daily,Daily_Average_Staff_Absence,D1,-0.83,2.7
+Bet Bottom & Top,RR8,Daily,Arriving_by_ambulance,D2,0.45,1.96
+Bet Bottom & Top,RR8,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.64,-0.67
+Bet Bottom & Top,RR8,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.13,2.94
+Bet Bottom & Top,RR8,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.12,3.02
+Bet Bottom & Top,RR8,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.35,3.46
+Bet Bottom & Top,RR8,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.48,3.8
+Bet Bottom & Top,RTK,Daily,Daily_Average_Staff_Absence,D1,-1.46,-0.75
+Bet Bottom & Top,RTK,Daily,Arriving_by_ambulance,D2,-0.3,-0.45
+Bet Bottom & Top,RTK,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.49,-0.66
+Bet Bottom & Top,RTK,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.58,-1.17
+Bet Bottom & Top,RTK,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.94,-1.09
+Bet Bottom & Top,RTK,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.13,-1.12
+Bet Bottom & Top,RTK,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.24,-1.09
+Bet Bottom & Top,RTP,Daily,Daily_Average_Staff_Absence,D1,-0.49,-0.46
+Bet Bottom & Top,RTP,Daily,Arriving_by_ambulance,D2,0.51,-0.22
+Bet Bottom & Top,RTP,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.69,-0.6
+Bet Bottom & Top,RTP,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.02,0.4
+Bet Bottom & Top,RTP,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.43,0.07
+Bet Bottom & Top,RTP,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.33,0.14
+Bet Bottom & Top,RTP,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.45,0.18
+Bet Bottom & Top,RTR,Daily,Daily_Average_Staff_Absence,D1,-1.25,-0.07
+Bet Bottom & Top,RTR,Daily,Arriving_by_ambulance,D2,0.45,-0.55
+Bet Bottom & Top,RTR,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.05,-0.18
+Bet Bottom & Top,RTR,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.79,-0.32
+Bet Bottom & Top,RTR,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.12,0.46
+Bet Bottom & Top,RTR,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.63,0.58
+Bet Bottom & Top,RTR,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.03,0.7
+Bet Bottom & Top,RTX,Daily,Daily_Average_Staff_Absence,D1,-1.14,0.07
+Bet Bottom & Top,RTX,Daily,Arriving_by_ambulance,D2,1.18,-0.45
+Bet Bottom & Top,RTX,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.2,-0.4
+Bet Bottom & Top,RTX,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.68,0.06
+Bet Bottom & Top,RTX,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.12,-0.49
+Bet Bottom & Top,RTX,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.29,-0.38
+Bet Bottom & Top,RTX,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.63,-0.34
+Top 10%,RVJ,Daily,Daily_Average_Staff_Absence,D1,0.4,-0.08
+Top 10%,RVJ,Daily,Arriving_by_ambulance,D2,1.09,0
+Top 10%,RVJ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.7,-0.13
+Top 10%,RVJ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.67,1.37
+Top 10%,RVJ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.59,0.53
+Top 10%,RVJ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.66,0.52
+Top 10%,RVJ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.5,0.52
+Top 10%,RVR,Daily,Daily_Average_Staff_Absence,D1,-0.22,-0.51
+Top 10%,RVR,Daily,Arriving_by_ambulance,D2,0.99,-0.29
+Top 10%,RVR,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.51,-0.39
+Top 10%,RVR,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.22,-0.24
+Top 10%,RVR,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.17,-0.41
+Top 10%,RVR,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.09,-0.37
+Top 10%,RVR,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.39,-0.35
+Bottom 10%,RVV,Daily,Daily_Average_Staff_Absence,D1,1.15,-0.15
+Bottom 10%,RVV,Daily,Arriving_by_ambulance,D2,1.53,1.86
+Bottom 10%,RVV,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.68,-0.53
+Bottom 10%,RVV,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.18,1.75
+Bottom 10%,RVV,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.5,0.91
+Bottom 10%,RVV,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.38,1.23
+Bottom 10%,RVV,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.36,1.42
+Bet Bottom & Top,RVY,Daily,Daily_Average_Staff_Absence,D1,-1.07,-0.68
+Bet Bottom & Top,RVY,Daily,Arriving_by_ambulance,D2,1.34,-1.28
+Bet Bottom & Top,RVY,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.61,-0.6
+Bet Bottom & Top,RVY,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.58,-0.66
+Bet Bottom & Top,RVY,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.44,-0.77
+Bet Bottom & Top,RVY,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.43,-0.67
+Bet Bottom & Top,RVY,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.09,-0.63
+Bottom 10%,RWA,Daily,Daily_Average_Staff_Absence,D1,-0.8,-0.27
+Bottom 10%,RWA,Daily,Arriving_by_ambulance,D2,0.78,0.09
+Bottom 10%,RWA,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.74,0.52
+Bottom 10%,RWA,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.16,1.14
+Bottom 10%,RWA,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.1,0.41
+Bottom 10%,RWA,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.27,0.39
+Bottom 10%,RWA,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.71,0.4
+Bottom 10%,RWD,Daily,Daily_Average_Staff_Absence,D1,-0.35,0.62
+Bottom 10%,RWD,Daily,Arriving_by_ambulance,D2,1.41,0.63
+Bottom 10%,RWD,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.4,0.5
+Bottom 10%,RWD,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.58,0.23
+Bottom 10%,RWD,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.57,0.11
+Bottom 10%,RWD,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.27,0.06
+Bottom 10%,RWD,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.47,0.01
+Bet Bottom & Top,RWE,Daily,Daily_Average_Staff_Absence,D1,-1.43,2.06
+Bet Bottom & Top,RWE,Daily,Arriving_by_ambulance,D2,1.11,1.2
+Bet Bottom & Top,RWE,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.44,0.29
+Bet Bottom & Top,RWE,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.46,0.4
+Bet Bottom & Top,RWE,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1,1.28
+Bet Bottom & Top,RWE,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.9,0.95
+Bet Bottom & Top,RWE,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.7,0.72
+Top 10%,RWF,Daily,Daily_Average_Staff_Absence,D1,-0.46,-0.7
+Top 10%,RWF,Daily,Arriving_by_ambulance,D2,1.53,0.49
+Top 10%,RWF,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.36,-0.67
+Top 10%,RWF,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.69,-0.98
+Top 10%,RWF,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.07,-0.28
+Top 10%,RWF,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.46,-0.34
+Top 10%,RWF,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.8,-0.39
+Bottom 10%,RWG,Daily,Daily_Average_Staff_Absence,D1,-0.27,-0.87
+Bottom 10%,RWG,Daily,Arriving_by_ambulance,D2,0.92,-0.52
+Bottom 10%,RWG,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,1.3,0.05
+Bottom 10%,RWG,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.59,-0.45
+Bottom 10%,RWG,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.32,-0.48
+Bottom 10%,RWG,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.45,-0.57
+Bottom 10%,RWG,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.53,-0.6
+Bottom 10%,RWH,Daily,Daily_Average_Staff_Absence,D1,-0.57,-0.64
+Bottom 10%,RWH,Daily,Arriving_by_ambulance,D2,0.67,-0.76
+Bottom 10%,RWH,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.2,0.44
+Bottom 10%,RWH,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.64,-0.6
+Bottom 10%,RWH,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.42,-0.59
+Bottom 10%,RWH,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.17,-0.7
+Bottom 10%,RWH,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.42,-0.75
+Bet Bottom & Top,RWJ,Daily,Daily_Average_Staff_Absence,D1,-0.65,-0.04
+Bet Bottom & Top,RWJ,Daily,Arriving_by_ambulance,D2,1.46,-0.52
+Bet Bottom & Top,RWJ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.78,-0.53
+Bet Bottom & Top,RWJ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.09,-0.16
+Bet Bottom & Top,RWJ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.72,-0.25
+Bet Bottom & Top,RWJ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.31,-0.2
+Bet Bottom & Top,RWJ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.63,-0.15
+Bet Bottom & Top,RWP,Daily,Daily_Average_Staff_Absence,D1,-0.79,-0.26
+Bet Bottom & Top,RWP,Daily,Arriving_by_ambulance,D2,-1.11,0.37
+Bet Bottom & Top,RWP,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.22,1.36
+Bet Bottom & Top,RWP,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.22,-0.66
+Bet Bottom & Top,RWP,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.98,-0.33
+Bet Bottom & Top,RWP,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.08,-0.43
+Bet Bottom & Top,RWP,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.22,-0.48
+Bet Bottom & Top,RWW,Daily,Daily_Average_Staff_Absence,D1,-1.11,-0.49
+Bet Bottom & Top,RWW,Daily,Arriving_by_ambulance,D2,0.58,-1.07
+Bet Bottom & Top,RWW,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.79,-0.46
+Bet Bottom & Top,RWW,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.72,0.5
+Bet Bottom & Top,RWW,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.38,-0.31
+Bet Bottom & Top,RWW,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.18,-0.14
+Bet Bottom & Top,RWW,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0,-0.06
+Bet Bottom & Top,RWY,Daily,Daily_Average_Staff_Absence,D1,-1.19,-0.05
+Bet Bottom & Top,RWY,Daily,Arriving_by_ambulance,D2,0.56,0.42
+Bet Bottom & Top,RWY,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.33,-0.62
+Bet Bottom & Top,RWY,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.44,0.14
+Bet Bottom & Top,RWY,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.98,-0.38
+Bet Bottom & Top,RWY,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.2,-0.32
+Bet Bottom & Top,RWY,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.39,-0.31
+Bet Bottom & Top,RXC,Daily,Daily_Average_Staff_Absence,D1,-0.43,-0.19
+Bet Bottom & Top,RXC,Daily,Arriving_by_ambulance,D2,1.73,0.21
+Bet Bottom & Top,RXC,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.3,-0.56
+Bet Bottom & Top,RXC,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.65,1.62
+Bet Bottom & Top,RXC,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.49,0.19
+Bet Bottom & Top,RXC,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.94,0.32
+Bet Bottom & Top,RXC,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.17,0.42
+Bet Bottom & Top,RXK,Daily,Daily_Average_Staff_Absence,D1,-0.68,0.43
+Bet Bottom & Top,RXK,Daily,Arriving_by_ambulance,D2,-1.29,0.68
+Bet Bottom & Top,RXK,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.59,-0.36
+Bet Bottom & Top,RXK,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.71,-0.77
+Bet Bottom & Top,RXK,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,1.04,-0.14
+Bet Bottom & Top,RXK,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.18,-0.12
+Bet Bottom & Top,RXK,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.19,0.01
+Bet Bottom & Top,RXL,Daily,Daily_Average_Staff_Absence,D1,-0.82,0.51
+Bet Bottom & Top,RXL,Daily,Arriving_by_ambulance,D2,0.73,-0.43
+Bet Bottom & Top,RXL,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.08,0.04
+Bet Bottom & Top,RXL,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.72,-0.75
+Bet Bottom & Top,RXL,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.32,-0.01
+Bet Bottom & Top,RXL,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.21,-0.14
+Bet Bottom & Top,RXL,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.54,-0.24
+Bet Bottom & Top,RXN,Daily,Daily_Average_Staff_Absence,D1,-0.37,0.68
+Bet Bottom & Top,RXN,Daily,Arriving_by_ambulance,D2,1.62,-0.45
+Bet Bottom & Top,RXN,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.53,-0.51
+Bet Bottom & Top,RXN,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-1.71,-0.52
+Bet Bottom & Top,RXN,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.07,0.22
+Bet Bottom & Top,RXN,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.54,0.1
+Bet Bottom & Top,RXN,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.66,0.06
+Bet Bottom & Top,RXP,Daily,Daily_Average_Staff_Absence,D1,-1.11,-0.23
+Bet Bottom & Top,RXP,Daily,Arriving_by_ambulance,D2,1.07,0.73
+Bet Bottom & Top,RXP,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.84,-0.54
+Bet Bottom & Top,RXP,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.63,-0.94
+Bet Bottom & Top,RXP,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-1.54,-0.23
+Bet Bottom & Top,RXP,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1.6,-0.44
+Bet Bottom & Top,RXP,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.68,-0.55
+Bet Bottom & Top,RXQ,Daily,Daily_Average_Staff_Absence,D1,-0.87,-0.78
+Bet Bottom & Top,RXQ,Daily,Arriving_by_ambulance,D2,1.41,-0.62
+Bet Bottom & Top,RXQ,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.39,-0.55
+Bet Bottom & Top,RXQ,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,1.51,-0.35
+Bet Bottom & Top,RXQ,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.49,-0.73
+Bet Bottom & Top,RXQ,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,0.65,-0.61
+Bet Bottom & Top,RXQ,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,1.06,-0.48
+Bet Bottom & Top,RXR,Daily,Daily_Average_Staff_Absence,D1,-0.73,0.62
+Bet Bottom & Top,RXR,Daily,Arriving_by_ambulance,D2,0.98,0.28
+Bet Bottom & Top,RXR,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.68,-0.66
+Bet Bottom & Top,RXR,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.98,-0.96
+Bet Bottom & Top,RXR,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.47,-0.37
+Bet Bottom & Top,RXR,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-1,-0.61
+Bet Bottom & Top,RXR,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-1.18,-0.74
+Bet Bottom & Top,RXW,Daily,Daily_Average_Staff_Absence,D1,-0.3,0.1
+Bet Bottom & Top,RXW,Daily,Arriving_by_ambulance,D2,-1.33,-0.48
+Bet Bottom & Top,RXW,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,0.17,1.59
+Bet Bottom & Top,RXW,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,0.53,-0.11
+Bet Bottom & Top,RXW,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,0.45,-0.11
+Bet Bottom & Top,RXW,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,1.26,-0.29
+Bet Bottom & Top,RXW,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,0.99,-0.39
+Bet Bottom & Top,RYR,Daily,Daily_Average_Staff_Absence,D1,0.69,2.5
+Bet Bottom & Top,RYR,Daily,Arriving_by_ambulance,D2,1.04,3.16
+Bet Bottom & Top,RYR,Daily,Time_Lost_to_Ambulance_Handover_Delays_Hours,D3,-0.33,-0.26
+Bet Bottom & Top,RYR,Daily,Monthly_Avg_Patients_who_no_longer_meet_the_criteria_to_reside,D4,-0.26,3.45
+Bet Bottom & Top,RYR,Daily,Daily_Avg_Bed_Occupancy>7 days,D5,-0.8,3.01
+Bet Bottom & Top,RYR,Daily,Daily_Avg_Bed_Occupancy>14 days,D6,-0.43,3.16
+Bet Bottom & Top,RYR,Daily,Daily_Avg_Bed_Occupancy>21 days,D7,-0.41,3.12
